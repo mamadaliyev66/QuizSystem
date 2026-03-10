@@ -1,0 +1,52 @@
+[
+    {
+        "login": "user",
+        "password": "User123",
+        "name": "Foydalanuvchi 1"
+    },
+    {
+        "login": "user2",
+        "password": "User223",
+        "name": "Foydalanuvchi 2"
+    },
+    {
+        "login": "user3",
+        "password": "User333",
+        "name": "Foydalanuvchi 3"
+    },
+    {
+        "login": "user4",
+        "password": "User444",
+        "name": "Foydalanuvchi 4"
+    },
+    {
+        "login": "user5",
+        "password": "User555",
+        "name": "Foydalanuvchi 5"
+    },
+    {
+        "login": "user6",
+        "password": "User666",
+        "name": "Foydalanuvchi 6"
+    },
+    {
+        "login": "user7",
+        "password": "User777",
+        "name": "Foydalanuvchi 7"
+    },
+    {
+        "login": "user8",
+        "password": "User888",
+        "name": "Foydalanuvchi 8"
+    },
+    {
+        "login": "user9",
+        "password": "User999",
+        "name": "Foydalanuvchi 9"
+    },
+    {
+        "login": "user10",
+        "password": "User1010",
+        "name": "Foydalanuvchi 10"
+    }   
+]
