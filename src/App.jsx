@@ -1,19 +1,9 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import useQuizStore from './store/useQuizStore';
 import Login from './pages/Login';
 import Categories from './pages/Categories';
 import QuizSetup from './pages/QuizSetup';
 import ActiveQuiz from './pages/ActiveQuiz';
 import Results from './pages/Results';
-
-// Protected Route wrapper
-const ProtectedRoute = ({ children }) => {
-  const user = useQuizStore((state) => state.user);
-  if (!user) {
-    return <Navigate to="/" replace />;
-  }
-  return children;
-};
 
 function App() {
   return (
@@ -21,10 +11,10 @@ function App() {
       <div className="min-h-screen app-container">
         <Routes>
           <Route path="/" element={<Login />} />
-          <Route path="/categories" element={<ProtectedRoute><Categories /></ProtectedRoute>} />
-          <Route path="/setup/:categoryId" element={<ProtectedRoute><QuizSetup /></ProtectedRoute>} />
-          <Route path="/quiz/:categoryId" element={<ProtectedRoute><ActiveQuiz /></ProtectedRoute>} />
-          <Route path="/results" element={<ProtectedRoute><Results /></ProtectedRoute>} />
+          <Route path="/categories" element={<Categories />} />
+          <Route path="/setup/:categoryId" element={<QuizSetup />} />
+          <Route path="/quiz/:categoryId" element={<ActiveQuiz />} />
+          <Route path="/results" element={<Results />} />
         </Routes>
       </div>
     </Router>
@@ -32,3 +22,8 @@ function App() {
 }
 
 export default App;
+```
+
+The 404 itself is a **hosting configuration issue** — your server needs to redirect all routes to `index.html`. If you're on **Netlify**, add a `_redirects` file in your `public/` folder:
+```
+/*  /index.html  200
