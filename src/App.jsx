@@ -22,8 +22,3 @@ function App() {
 }
 
 export default App;
-```
-
-The 404 itself is a **hosting configuration issue** — your server needs to redirect all routes to `index.html`. If you're on **Netlify**, add a `_redirects` file in your `public/` folder:
-```
-/*  /index.html  200
