@@ -6,10 +6,10 @@
       "savol": "Chiqarish chiziqlari olcham chiziqlaridan, markaz va oq chiziqlari detalining konturidan qancha chiqib turishi mumkin?",
       "javob": "Chiqarish chiziqlari 1...2 mm, oq chiziqlari 3...5 mm",
       "variantlar": [
-        "Chiqarish chiziqlari 1...2 mm, oq chiziqlari 3...5 mm",
-        "Chiqarish chiziqlari 1...2 mm, oq chiziqlari 10...15 mm",
         "Chiqarish chiziqlari 2...6 mm, oq chiziqlari 8...10",
-        "Chiqarish chiziqlari 2...8 mm, oq chiziqlari 3...5 mm"
+        "Chiqarish chiziqlari 2...8 mm, oq chiziqlari 3...5 mm",
+        "Chiqarish chiziqlari 1...2 mm, oq chiziqlari 10...15 mm",
+        "Chiqarish chiziqlari 1...2 mm, oq chiziqlari 3...5 mm"
       ],
       "manba": ""
     },
@@ -18,9 +18,9 @@
       "savol": "90 li burchakni teng ikkiga bolish uchun burchakning qanday chizigi otkaziladi?",
       "javob": "Bisektrissasi",
       "variantlar": [
+        "Kateti 126",
         "Bisektrissasi",
         "Medianasi",
-        "Kateti 126",
         "Radiusi"
       ]
     },
@@ -41,9 +41,9 @@
       "javob": "Mustahkamlash darajasi shartiga kora",
       "variantlar": [
         "Mustahkamlash darajasi shartiga kora",
+        "Silindrik va konus sirtlardа",
         "Oz-ozidan buralib ketishga qarshi joylarda",
-        "Asosan yupqa devorli detallarda",
-        "Silindrik va konus sirtlardа"
+        "Asosan yupqa devorli detallarda"
       ]
     },
     {
@@ -51,10 +51,10 @@
       "savol": "Rezba elementlariga nimalar kiradi?",
       "javob": "Sbegi, protochkasi, faskasi",
       "variantlar": [
-        "Sbegi, protochkasi, faskasi",
-        "Chizig‘i, ipi, chiqig‘i",
         "Qadami, yo‘li, kirimi",
-        "Sirti, egri chizig‘i, qadami"
+        "Sirti, egri chizig‘i, qadami",
+        "Chizig‘i, ipi, chiqig‘i",
+        "Sbegi, protochkasi, faskasi"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "savol": "Rezbaning protochkasi nima?",
       "javob": "Sbeg o‘rniga ishlangan xalqasimon joy",
       "variantlar": [
+        "Profili toliq bolmagan rezbaning kirishi",
         "Sbeg o‘rniga ishlangan xalqasimon joy",
         "Profili to liq bolmagan rezbaning chiqishi",
-        "Profili toliq bolmagan rezbaning kirishi",
         "Rezbaning faskasi"
       ]
     },
@@ -84,10 +84,10 @@
       "savol": "Biriktirish detallari qanday aniqlikda tayyorlanadi?",
       "javob": "Dagal aniqlikda, normal aniqlikda, yuqori aniqlikda",
       "variantlar": [
-        "Dagal aniqlikda, normal aniqlikda, yuqori aniqlikda",
-        "Kop kirimli",
+        "Bir kirimli",
         "Kontaktli",
-        "Bir kirimli"
+        "Kop kirimli",
+        "Dagal aniqlikda, normal aniqlikda, yuqori aniqlikda"
       ]
     },
     {
@@ -95,10 +95,10 @@
       "savol": "Bolt tadbiq qilishga imkon bolmagan joylarda nima ishlatiladi?",
       "javob": "Shpilka",
       "variantlar": [
-        "Shpilka",
-        "Shtift",
         "Tashlama bolt, rim-bolt",
-        "Shponka"
+        "Shpilka",
+        "Shponka",
+        "Shtift"
       ]
     },
     {
@@ -106,9 +106,9 @@
       "savol": "Yogoch va plastmassalar uchun ishlatiladigan vint nima deyiladi?",
       "javob": "Shurup",
       "variantlar": [
+        "Shplint",
         "Shurup",
         "Shtift",
-        "Shplint",
         "Shponka"
       ]
     },
@@ -117,10 +117,10 @@
       "savol": "Ikkala uchiga rezba oyilgan detal nima deyiladi?",
       "javob": "Shpilka",
       "variantlar": [
-        "Shpilka",
-        "Shtift",
         "Shplint",
-        "Shponka"
+        "Shtift",
+        "Shponka",
+        "Shpilka"
       ]
     },
     {
@@ -128,10 +128,10 @@
       "savol": "Detallarni biriktirishda qanday rezbali teshikli detaldan foydalaniladi?",
       "javob": "Gayka",
       "variantlar": [
-        "Gayka",
         "Shayba",
-        "Vint",
-        "Qistirma"
+        "Gayka",
+        "Qistirma",
+        "Vint"
       ]
     },
     {
@@ -139,9 +139,9 @@
       "savol": "Valga shkivni biriktirishda bosim ostida kiritiladigan qanday detal qollaniladi?",
       "javob": "Shtift",
       "variantlar": [
+        "Shplint",
         "Shtift",
         "Gayka",
-        "Shplint",
         "Shurup"
       ]
     },
@@ -150,10 +150,10 @@
       "savol": "Chiziqli burchak olchaydigan asbob qanday nomlanadi?",
       "javob": "Transportir",
       "variantlar": [
-        "Transportir",
         "Trafaret",
-        "Uchburchaklik",
-        "Lekalo"
+        "Transportir",
+        "Lekalo",
+        "Uchburchaklik"
       ]
     },
     {
@@ -162,9 +162,9 @@
       "javob": "Tirsakli",
       "variantlar": [
         "Tirsakli",
-        "Togri",
+        "Kontrgayka",
         "Otish",
-        "Kontrgayka"
+        "Togri"
       ]
     },
     {
@@ -172,10 +172,10 @@
       "savol": "Quvurli birikmalarda kanop tolasidan oralgan moyli zichlagichlarni zichlash uchun qanday detaldan foydalaniladi?",
       "javob": "Kontrgayka",
       "variantlar": [
-        "Kontrgayka",
-        "Tirsak",
         "Mufta",
-        "Tiqin"
+        "Kontrgayka",
+        "Tiqin",
+        "Tirsak"
       ]
     },
     {
@@ -183,9 +183,9 @@
       "savol": "Rezbali sterjenda rezbasining kichik (ichki) diametri d1 chizmada qanday chiziqda tasvirlanadi?",
       "javob": "Ingichka tutash",
       "variantlar": [
-        "Ingichka tutash",
         "Shtrix",
         "Ingichka shtrix-punktir",
+        "Ingichka tutash",
         "Ingichka tolqinsimon"
       ]
     },
@@ -195,9 +195,9 @@
       "javob": "Ingichka tutash",
       "variantlar": [
         "Ingichka tutash",
-        "Shtrix",
         "Asosiy tutash yogon",
-        "Ingichka shtrix-punktir"
+        "Ingichka shtrix-punktir",
+        "Shtrix"
       ]
     },
     {
@@ -205,9 +205,9 @@
       "savol": "Chizmada rezbali teshikning kichik diametri d1 qanday chiziqda tasvirlanadi?",
       "javob": "Asosiy tutash yogon",
       "variantlar": [
+        "Ingichka shtrix-punktir",
         "Asosiy tutash yogon",
         "Shtrix",
-        "Ingichka shtrix-punktir",
         "Ingichka tutash"
       ]
     },
@@ -216,9 +216,9 @@
       "savol": "Normal boltlarda kallagining balandligi H rezbasining tashqi (katta) diametri d ga nisbatan qanday kattalikda olinadi?",
       "javob": "H = 0,7d",
       "variantlar": [
-        "H = 0,7d",
-        "H = 0,8d",
         "H = 0,85d",
+        "H = 0,8d",
+        "H = 0,7d",
         "H = 0,9d"
       ]
     },
@@ -227,10 +227,10 @@
       "savol": "Buyumning biror kichik qismini aniqlash maqsadida berilgan qirqim qanday qirqim deyiladi?",
       "javob": "Mahalliy",
       "variantlar": [
+        "Siniq",
         "Mahalliy",
         "Pogonali",
-        "Ogma",
-        "Siniq"
+        "Ogma"
       ]
     },
     {
@@ -238,10 +238,10 @@
       "savol": "Detalning qanday joyiga qoyiladigan olcham yozilgan? R20",
       "javob": "Radiusli teshik yoki chiqiq",
       "variantlar": [
-        "Radiusli teshik yoki chiqiq",
         "Silindrli teshik yoki chiqiq",
-        "Togri tortburchakli teshik yoki chiqiq",
-        "Kvadratli teshik yoki chiqiq"
+        "Kvadratli teshik yoki chiqiq",
+        "Radiusli teshik yoki chiqiq",
+        "Togri tortburchakli teshik yoki chiqiq"
       ]
     },
     {
@@ -249,8 +249,8 @@
       "savol": "Buyumda ornatish vintlari qanday vazifani bajaradi?",
       "javob": "Bir detalning vaziyatini ikkinchisiga nisbatan moslash",
       "variantlar": [
-        "Bir detalning vaziyatini ikkinchisiga nisbatan moslash",
         "Detallarni biriktirish",
+        "Bir detalning vaziyatini ikkinchisiga nisbatan moslash",
         "Detallarni sozlash",
         "Detallarni surish"
       ]
@@ -271,10 +271,10 @@
       "savol": "Chizmada olchamlar qoyishda zanjirli va koordinata usullaridan foydalanilgan usul nima deyiladi?",
       "javob": "Aralash",
       "variantlar": [
-        "Aralash",
         "Koordinata",
-        "Zanjir",
-        "Konstruktorlik"
+        "Konstruktorlik",
+        "Aralash",
+        "Zanjir"
       ]
     },
     {
@@ -282,10 +282,10 @@
       "savol": "Yetakchi va yetaklanuvchi vallarning geometrik oqlari ozaro otkir yoki otmas, yoki togri burchak ostida kesishsa, u vaqtda aylanma harakat qanday tishli gildiraklar yordamida uzatiladi?",
       "javob": "Konussimon",
       "variantlar": [
-        "Konussimon",
-        "Silindrik",
         "Reykali",
-        "Chervyakli"
+        "Chervyakli",
+        "Konussimon",
+        "Silindrik"
       ]
     },
     {
@@ -293,10 +293,10 @@
       "savol": "Yetakchi va yetaklanuvchi vallarning geometrik oqlari ozaro parallel bolsa, u vaqtda aylanma harakat qanday tishli gildiraklar yordamida uzatiladi?",
       "javob": "Silindrik",
       "variantlar": [
-        "Silindrik",
-        "Konussimon",
         "Reykali",
-        "Chervyakli"
+        "Chervyakli",
+        "Silindrik",
+        "Konussimon"
       ]
     },
     {
@@ -305,9 +305,9 @@
       "javob": "Chervyakli",
       "variantlar": [
         "Chervyakli",
-        "Konussimon",
+        "Silindrik",
         "Reykali",
-        "Silindrik"
+        "Konussimon"
       ]
     },
     {
@@ -316,9 +316,9 @@
       "javob": "Reykali",
       "variantlar": [
         "Reykali",
-        "Konussimon",
+        "Chervyakli",
         "Silindrik",
-        "Chervyakli"
+        "Konussimon"
       ]
     },
     {
@@ -326,10 +326,10 @@
       "savol": "Tishli gildirakning moduli m qanday tenglama yordamida aniqlanadi?",
       "javob": "d (tishli gildirakning boshlangich aylanasi diametri) d = mz",
       "variantlar": [
+        "z (tishli gildirak tishlarining soni) m = d/z",
         "d (tishli gildirakning boshlangich aylanasi diametri) d = mz",
-        "h (tishli gildirak tishining balandligi) h = m",
         "b (tishli gildirak eni (qalinligi) b = m",
-        "z (tishli gildirak tishlarining soni) m = d/z"
+        "h (tishli gildirak tishining balandligi) h = m"
       ]
     },
     {
@@ -337,10 +337,10 @@
       "savol": "Tishli gildirakni chizish nimadan boshlanadi?",
       "javob": "Boshlangich (boluvchi) aylana d dan",
       "variantlar": [
-        "Boshlangich (boluvchi) aylana d dan",
         "Tashqi, yani tishlar choqqisi aylanasi dt dan",
+        "Gupchak aylanasi dgup dan",
         "Ichki yani, yishlar tubi aylanasi di dan",
-        "Gupchak aylanasi dgup dan"
+        "Boshlangich (boluvchi) aylana d dan"
       ]
     },
     {
@@ -348,10 +348,10 @@
       "savol": "Tishli gildiraklarning tashqi dt (tishlar choqqilari) aylanasi shartli qanday chiziqda tasvirlanadi?",
       "javob": "Asosiy tutash yogon",
       "variantlar": [
-        "Asosiy tutash yogon",
-        "Ingichka tutash tolqinsimon",
+        "Ingichka shtrix-punktir",
         "Ingichka tutash",
-        "Ingichka shtrix-punktir"
+        "Asosiy tutash yogon",
+        "Ingichka tutash tolqinsimon"
       ]
     },
     {
@@ -359,10 +359,10 @@
       "savol": "Tishli gildiraklarning tishlar tubi aylanasi di shartli qanday chiziqda tasvirlanadi?",
       "javob": "Ingichka tutash",
       "variantlar": [
-        "Ingichka tutash",
         "Asosiy tutash yogon",
         "Ingichka tutash tolqinsimon",
-        "Ingichka shtrix-punktir"
+        "Ingichka shtrix-punktir",
+        "Ingichka tutash"
       ]
     },
     {
@@ -372,8 +372,8 @@
       "variantlar": [
         "Kvadratli teshik yoki chiqiq",
         "Silindrli teshik yoki chiqiq",
-        "Tortburchakli teshik yoki chiqiq",
-        "Radiusli teshik yoki chiqiq"
+        "Radiusli teshik yoki chiqiq",
+        "Tortburchakli teshik yoki chiqiq"
       ]
     },
     {
@@ -381,10 +381,10 @@
       "savol": "Proyeksiyalovchi nurlar ozaro parallel bolsa, qanday proyeksiyalash hosil boladi?",
       "javob": "Parallel",
       "variantlar": [
-        "Parallel",
+        "Aksonometrik",
         "Markaziy",
-        "Sonlar bilan belgilangan",
-        "Aksonometrik"
+        "Parallel",
+        "Sonlar bilan belgilangan"
       ]
     },
     {
@@ -392,9 +392,9 @@
       "savol": "Gugurt qutisiga oxshagan kopyoqlik nima deyiladi?",
       "javob": "Parallellepiped",
       "variantlar": [
-        "Parallellepiped",
-        "Piramida",
         "Oktaedr",
+        "Piramida",
+        "Parallellepiped",
         "Kub"
       ]
     },
@@ -403,10 +403,10 @@
       "savol": "Tishli gildirakning chizmasida, uning tishlari soni z qanday tenglama yordamida aniqlanadi?",
       "javob": "z = d/m",
       "variantlar": [
-        "z = d/m",
         "z = dz",
-        "z = (6...8)m",
-        "z = d/2"
+        "z = d/2",
+        "z = d/m",
+        "z = (6...8)m"
       ]
     },
     {
@@ -414,10 +414,10 @@
       "savol": "M 2:1. Bu qanday masshtab?",
       "javob": "Kattalashtirish",
       "variantlar": [
-        "Kattalashtirish",
+        "Nisbat",
         "Natural (asli)",
         "Kichraytirish",
-        "Nisbat"
+        "Kattalashtirish"
       ]
     },
     {
@@ -425,10 +425,10 @@
       "savol": "Valdagi barabanni teskari yonalishda aylanib ketmasligini taminlash maqsadida qanday mexanizmdan foydalaniladi?",
       "javob": "Xrapovikli",
       "variantlar": [
+        "Vintli",
         "Xrapovikli",
         "Prujinali",
-        "Shponkali",
-        "Vintli"
+        "Shponkali"
       ]
     },
     {
@@ -436,10 +436,10 @@
       "savol": "Mexanizmdagi maxsus profilli tishli gildirakni teskari aylanishdan saqlaydigan moslama (detal) nima bolishi mumkin?",
       "javob": "Tishlagich (Sobachka)",
       "variantlar": [
-        "Tishlagich (Sobachka)",
+        "Shponka",
         "Prujina",
         "Vint",
-        "Shponka"
+        "Tishlagich (Sobachka)"
       ]
     },
     {
@@ -447,9 +447,9 @@
       "savol": "Zanjirli uzatmalarning shartli tasvirida zanjir qanday chiziqda tasvirlanadi?",
       "javob": "Ingichka shtrix-punktir",
       "variantlar": [
+        "Ingichka tutash",
         "Ingichka shtrix-punktir",
         "Ingichka ikki nuqtali shtrix-punktir",
-        "Ingichka tutash",
         "Shtrix"
       ]
     },
@@ -459,9 +459,9 @@
       "javob": "Natural (asli)",
       "variantlar": [
         "Natural (asli)",
-        "Kattalashtlrish",
+        "Nisbat",
         "Kichraytirish",
-        "Nisbat"
+        "Kattalashtlrish"
       ]
     },
     {
@@ -469,10 +469,10 @@
       "savol": "Metallni eritib quyish yoki biriktiriladigan detallarni eritish natijasida hosil boladigan chok nima deb atalishi mumkin?",
       "javob": "Payvand chokli",
       "variantlar": [
-        "Payvand chokli",
         "Shtiftli",
-        "Shponkali",
-        "Parchinmixli"
+        "Parchinmixli",
+        "Payvand chokli",
+        "Shponkali"
       ]
     },
     {
@@ -482,8 +482,8 @@
       "variantlar": [
         "Detalning korinmas konturini tasvirlashda",
         "Kesim yuzalarni shtrixlashda",
-        "Markaziy va oq chiziqlarni chizishda",
-        "Detalga olchamlar qoyishda"
+        "Detalga olchamlar qoyishda",
+        "Markaziy va oq chiziqlarni chizishda"
       ]
     },
     {
@@ -492,8 +492,8 @@
       "javob": "Qattiqligini",
       "variantlar": [
         "Qattiqligini",
-        "Juda yumshoqligini",
         "Ortacha yumshoqligini",
+        "Juda yumshoqligini",
         "Yumshoqligini"
       ]
     },
@@ -502,9 +502,9 @@
       "savol": "Fazoda yoki tekislikda malum yonalishda uzluksiz harakatlanuvchi biror nuqtaning iziga nima deyiladi?",
       "javob": "Egri chiziq",
       "variantlar": [
+        "Izi",
         "Egri chiziq",
         "Togri chiziq",
-        "Izi",
         "Kesma"
       ]
     },
@@ -513,9 +513,9 @@
       "savol": "Murakkab qirqimni aniqlang?",
       "javob": "Siniq",
       "variantlar": [
-        "Siniq",
-        "Gorizontal",
         "Vertikal",
+        "Gorizontal",
+        "Siniq",
         "Frontal"
       ]
     },
@@ -524,10 +524,10 @@
       "savol": "Chizmada S belgi detalning qanday olchamini bildiradi?",
       "javob": "Qalinlik",
       "variantlar": [
-        "Qalinlik",
-        "Balandlik",
         "Gabarit",
-        "Uzunlik"
+        "Uzunlik",
+        "Qalinlik",
+        "Balandlik"
       ]
     },
     {
@@ -535,10 +535,10 @@
       "savol": "Kesim deb nimaga aytiladi?",
       "javob": "Detalning faqat kesyvchi tekislikda kesilgan joy",
       "variantlar": [
-        "Detalning faqat kesyvchi tekislikda kesilgan joy",
-        "Detalning ichki tuzulishini aniqlash usuli",
+        "Chiqarib tasvirlangan detal qismi",
         "Detalning ichki korinishini oqishga imkon beradigan tasvir",
-        "Chiqarib tasvirlangan detal qismi"
+        "Detalning faqat kesyvchi tekislikda kesilgan joy",
+        "Detalning ichki tuzulishini aniqlash usuli"
       ]
     },
     {
@@ -546,9 +546,9 @@
       "savol": "Uzunligi, balandligi va eni teng olchamga ega geometric shakl nima?",
       "javob": "Kub",
       "variantlar": [
+        "Kvadrat",
         "Kub",
         "Kvadrant",
-        "Kvadrat",
         "Konus"
       ]
     },
@@ -558,9 +558,9 @@
       "javob": "x = 25-30, y = 8-10",
       "variantlar": [
         "x = 25-30, y = 8-10",
-        "x = 30-40, y = 10-12",
         "x = 40-45, y = 14-20",
-        "x = 35-40, y = 12-15"
+        "x = 35-40, y = 12-15",
+        "x = 30-40, y = 10-12"
       ]
     },
     {
@@ -569,9 +569,9 @@
       "javob": "Ajralmas",
       "variantlar": [
         "Ajralmas",
-        "Ajraluvchi",
         "Suriluvchi",
-        "Qozgalmas"
+        "Qozgalmas",
+        "Ajraluvchi"
       ]
     },
     {
@@ -590,10 +590,10 @@
       "savol": "Biriktiriladigan detallarda birgalikda teshik ochilib, unga ularni biriktiradigan detal bosim ostida kiritilsa, qanday birikma hosil bolishi mumkin?",
       "javob": "Shtiftli",
       "variantlar": [
-        "Shtiftli",
-        "Parchinmixli",
         "Shpilkali",
-        "Shplintli"
+        "Shplintli",
+        "Parchinmixli",
+        "Shtiftli"
       ]
     },
     {
@@ -601,10 +601,10 @@
       "savol": "Shtift teshikka qanday kiritiladi?",
       "javob": "Bosim ostida",
       "variantlar": [
-        "Bosim ostida",
-        "Tirqishli",
         "Tirqishsiz",
-        "Erkin"
+        "Erkin",
+        "Tirqishli",
+        "Bosim ostida"
       ]
     },
     {
@@ -623,10 +623,10 @@
       "savol": "Mashina yoki mexanizmning nagruzka (yuklama) tasirida elastik deformatsiyasini (shakl ozgarishi) vaqtincha toplashga xizmat qiladigan detal nima deyiladi?",
       "javob": "Prujina",
       "variantlar": [
-        "Prujina",
         "Vint",
         "Vtulka",
-        "Xrapovik"
+        "Xrapovik",
+        "Prujina"
       ]
     },
     {
@@ -634,10 +634,10 @@
       "savol": "Ikkala asosi tekis, oramalari yumaloq silindrik va konussiman prujinalar qanday nomlanadi?",
       "javob": "Siqilish",
       "variantlar": [
+        "Buralish",
         "Siqilish",
-        "Spiralsimon",
         "Vintsimon",
-        "Buralish"
+        "Spiralsimon"
       ]
     },
     {
@@ -646,8 +646,8 @@
       "javob": "Korinishning bir qismini qirqimning bir qismi bilan birlashtirish",
       "variantlar": [
         "Korinishning bir qismini qirqimning bir qismi bilan birlashtirish",
-        "Kesimning bir qismini qirqimning bir qismi bilan birlashtirish",
         "Murakkab",
+        "Kesimning bir qismini qirqimning bir qismi bilan birlashtirish",
         "Mahalliy"
       ]
     },
@@ -657,9 +657,9 @@
       "javob": "Grafik til",
       "variantlar": [
         "Grafik til",
-        "Fotografiya",
         "Shakl",
-        "Tasvir"
+        "Tasvir",
+        "Fotografiya"
       ]
     },
     {
@@ -679,9 +679,9 @@
       "javob": "A4",
       "variantlar": [
         "A4",
-        "A5",
+        "A2",
         "A3",
-        "A2"
+        "A5"
       ]
     },
     {
@@ -689,10 +689,10 @@
       "savol": "Chizma shriftlari standartga asosan qanday yoziladi?",
       "javob": "Qiya va tik",
       "variantlar": [
-        "Qiya va tik",
         "Tik va 450",
-        "Qiya va 600",
-        "Ogma va qiya"
+        "Ogma va qiya",
+        "Qiya va tik",
+        "Qiya va 600"
       ]
     },
     {
@@ -700,10 +700,10 @@
       "savol": "Narsaning aniq shakli va olchamlarini toliq korsata oladigan tekislikdagi tasvir nima deyiladi?",
       "javob": "Chizma",
       "variantlar": [
+        "Perspektiva",
         "Chizma",
         "Rasm",
-        "Texnik rasm",
-        "Perspektiva"
+        "Texnik rasm"
       ]
     },
     {
@@ -712,9 +712,9 @@
       "javob": "Geometrik",
       "variantlar": [
         "Geometrik",
-        "Muhandislik",
+        "Topografik",
         "Mashinasozlik",
-        "Topografik"
+        "Muhandislik"
       ]
     },
     {
@@ -722,10 +722,10 @@
       "savol": "Narsalarni tekislikda tasvirlash usullari qanday chizmachilik orqali organiladi?",
       "javob": "Proyeksion",
       "variantlar": [
-        "Proyeksion",
-        "Geometrik",
+        "Mashinasozlik",
         "Perspektiv",
-        "Mashinasozlik"
+        "Proyeksion",
+        "Geometrik"
       ]
     },
     {
@@ -733,10 +733,10 @@
       "savol": "Turli texnik buyumlarni yasash uchun moljallangan chizmalarni bajarish qaysi chizmachilik orqali organiladi?",
       "javob": "Mashinasozlik",
       "variantlar": [
-        "Mashinasozlik",
         "Geometrik",
-        "Topografik",
-        "Qurilish"
+        "Qurilish",
+        "Mashinasozlik",
+        "Topografik"
       ]
     },
     {
@@ -744,10 +744,10 @@
       "savol": "Ikkita aylana yoylariga urinib otuvchi uchinchi aylana radiusi nima deyiladi?",
       "javob": "Tutashtirish radiusi",
       "variantlar": [
-        "Tutashtirish radiusi",
+        "Tutashtirish markazi",
         "Otish radiusi",
         "Diametr",
-        "Tutashtirish markazi"
+        "Tutashtirish radiusi"
       ]
     },
     {
@@ -755,9 +755,9 @@
       "savol": "Egri chiziqning hamma nuqtalari bitta tekislikka tegishli bolmasa, u qanday chiziq deyiladi?",
       "javob": "Fazoviy",
       "variantlar": [
-        "Fazoviy",
         "Sfera",
         "Tekis",
+        "Fazoviy",
         "Ellipsoid"
       ]
     },
@@ -767,9 +767,9 @@
       "javob": "Lekalo egri",
       "variantlar": [
         "Lekalo egri",
-        "Fazoviy egri",
         "Oval",
-        "Ovoid"
+        "Ovoid",
+        "Fazoviy egri"
       ]
     },
     {
@@ -777,10 +777,10 @@
       "savol": "Fazoda H va V proyeksiyalar tekisliklari ozaro qanday joylashadi?",
       "javob": "Perpendikulyar",
       "variantlar": [
-        "Perpendikulyar",
         "Bitta tekislikda",
         "Otkir burchakda",
-        "Parallel"
+        "Parallel",
+        "Perpendikulyar"
       ]
     },
     {
@@ -788,10 +788,10 @@
       "savol": "Buyum va uning tarkibiy qismlarining ozaro boglanishi togrisida tasavvur etish imkonini beruvchi tasvir nima deyiladi?",
       "javob": "Yigish chizmasi",
       "variantlar": [
-        "Yigish chizmasi",
-        "Detallarining ishchi chizmalari",
+        "Gabarit chizma",
         "Detallarining eskizlari",
-        "Gabarit chizma"
+        "Yigish chizmasi",
+        "Detallarining ishchi chizmalari"
       ]
     },
     {
@@ -800,9 +800,9 @@
       "javob": "Nuqta",
       "variantlar": [
         "Nuqta",
+        "togri chiziq",
         "Ellips",
-        "Aylana",
-        "togri chiziq"
+        "Aylana"
       ]
     },
     {
@@ -812,8 +812,8 @@
       "variantlar": [
         "Bitta",
         "Tortta",
-        "Uchta",
-        "Oltita"
+        "Oltita",
+        "Uchta"
       ]
     },
     {
@@ -822,8 +822,8 @@
       "javob": "Valning vtulka bilan tishlar va pazlar yordamida biriktirilishi",
       "variantlar": [
         "Valning vtulka bilan tishlar va pazlar yordamida biriktirilishi",
-        "Valning vtulka bilan rezbalar yordamida biriktirilishi",
         "Valning vtulka bilan shponka yordamida biriktirilishi",
+        "Valning vtulka bilan rezbalar yordamida biriktirilishi",
         "Valning vtulka bilan shtift yordamida biriktirilishi"
       ]
     },
@@ -832,10 +832,10 @@
       "savol": "7-shriftning yozma harflari balandligi nechaga teng?",
       "javob": "5 mm",
       "variantlar": [
-        "5 mm",
         "7 mm",
         "10 mm",
-        "14 mm"
+        "14 mm",
+        "5 mm"
       ]
     },
     {
@@ -844,8 +844,8 @@
       "javob": "Tetraedr, geksaedr, oktaedr, dodekaedr, ikosaedr",
       "variantlar": [
         "Tetraedr, geksaedr, oktaedr, dodekaedr, ikosaedr",
-        "Kub, konus, silindr, piramida, sfera",
         "Silindr, tetraedr, kub, oktaedr, piramida",
+        "Kub, konus, silindr, piramida, sfera",
         "Dodekaedr, ikosaedr, silindr, konus, piramida"
       ]
     },
@@ -855,8 +855,8 @@
       "javob": "Oq, richag, chigir, vint, pona",
       "variantlar": [
         "Oq, richag, chigir, vint, pona",
-        "Bolt, shpilka, mufta, qistirma, shayba",
         "Vint, vtulka, shpindel, qistirma, klapan",
+        "Bolt, shpilka, mufta, qistirma, shayba",
         "O q, vint, val, shkiv, shponka"
       ]
     },
@@ -865,10 +865,10 @@
       "savol": "Necha xil masshtab mavjud?",
       "javob": "3",
       "variantlar": [
-        "3",
         "4",
         "5",
-        "2"
+        "2",
+        "3"
       ]
     },
     {
@@ -877,9 +877,9 @@
       "javob": "Tasvir",
       "variantlar": [
         "Korinish",
-        "Chizma",
         "Rasm",
-        "Tasvir"
+        "Tasvir",
+        "Chizma"
       ]
     },
     {
@@ -887,8 +887,8 @@
       "savol": "Murakkab qirqimda nechta kesuvchi tekislikdan foydalanish notogri boladi?",
       "javob": "Bitta",
       "variantlar": [
-        "Bitta",
         "Ikkita",
+        "Bitta",
         "Uchta",
         "Tortta"
       ],
@@ -899,9 +899,9 @@
       "savol": "Oltita bir xil kvadratlardan tuzilgan geometrik jism nima deyiladi?",
       "javob": "Kub",
       "variantlar": [
+        "Tetraedr",
         "Kub",
         "Prizma",
-        "Tetraedr",
         "Piramida"
       ],
       "manba": ""
@@ -911,10 +911,10 @@
       "savol": "Umumiy uchga ega bolgan uchburchakliklardan tashkil topgan kopyoqlik nima deyiladi?",
       "javob": "Piramida",
       "variantlar": [
-        "Piramida",
-        "Prizma",
         "Konus",
-        "Silindr"
+        "Silindr",
+        "Piramida",
+        "Prizma"
       ],
       "manba": ", "
     },
@@ -924,9 +924,9 @@
       "javob": "Qirra",
       "variantlar": [
         "Qirra",
-        "Uch",
+        "Asos",
         "Yoq",
-        "Asos"
+        "Uch"
       ],
       "manba": ""
     },
@@ -936,9 +936,9 @@
       "javob": "Frontal izometriya",
       "variantlar": [
         "Frontal izometriya",
-        "Dimetriya",
         "Frohtal dimetriya",
-        "Perspektiva"
+        "Perspektiva",
+        "Dimetriya"
       ],
       "manba": ", "
     },
@@ -947,10 +947,10 @@
       "savol": "Aksonometriya sozi qanday manoga ega?",
       "javob": "Oqlar boyicha olchash",
       "variantlar": [
-        "Oqlar boyicha olchash",
-        "Izometriya",
         "Dimetriya",
-        "Yaqqol tasvir"
+        "Oqlar boyicha olchash",
+        "Yaqqol tasvir",
+        "Izometriya"
       ],
       "manba": ""
     },
@@ -959,10 +959,10 @@
       "savol": "Ozgarish koeffitsientlari x va z oqlar boyicha bir xil, y oq uchun ikki marta kam olinadigan aksonometriya nima deyiladi",
       "javob": "Dimetriya",
       "variantlar": [
-        "Dimetriya",
-        "Izometriya",
         "Trimetriya",
-        "Perspektiva"
+        "Dimetriya",
+        "Perspektiva",
+        "Izometriya"
       ],
       "manba": ""
     },
@@ -971,10 +971,10 @@
       "savol": "Qaysi tekislikdagi detal korinishi bosh korinish deb qabul qilingan?",
       "javob": "Frontal",
       "variantlar": [
-        "Frontal",
-        "Gorizontal",
         "Profil",
-        "Aksonometrik"
+        "Aksonometrik",
+        "Frontal",
+        "Gorizontal"
       ],
       "manba": ", "
     },
@@ -983,10 +983,10 @@
       "savol": "Detalning H dagi tasviri qanday korinish hisoblanadi?",
       "javob": "Ustdan",
       "variantlar": [
-        "Ustdan",
-        "Chapdan",
+        "Ongdan",
         "Olddan",
-        "Ongdan"
+        "Chapdan",
+        "Ustdan"
       ],
       "manba": ""
     },
@@ -995,9 +995,9 @@
       "savol": "Detalning H1 qagi tasviri qanday korinish hisoblanadi?",
       "javob": "Ostdan",
       "variantlar": [
-        "Ostdan",
         "Chapdan",
         "Ustdan",
+        "Ostdan",
         "Olddan"
       ],
       "manba": ", "
@@ -1007,9 +1007,9 @@
       "savol": "Detalning V dagi tasviri qanday korinish hisoblanadi?",
       "javob": "Olddan",
       "variantlar": [
-        "Olddan",
-        "Chapdan",
         "Ustdan",
+        "Chapdan",
+        "Olddan",
         "Ongdan"
       ],
       "manba": ""
@@ -1019,10 +1019,10 @@
       "savol": "Detalning W dagi tasviri qanday korinish hisoblanadi?",
       "javob": "Chapdan",
       "variantlar": [
+        "Ongdan",
         "Chapdan",
         "Olddan",
-        "Ustdan",
-        "Ongdan"
+        "Ustdan"
       ],
       "manba": ", "
     },
@@ -1031,10 +1031,10 @@
       "savol": "Detalning asosiy korinishi qaysi proyeksiyalar tekisligida tasvirlanadi?",
       "javob": "Frontal",
       "variantlar": [
-        "Frontal",
-        "Profil",
         "Gorizontal",
-        "Aksonometrik"
+        "Aksonometrik",
+        "Frontal",
+        "Profil"
       ],
       "manba": ""
     },
@@ -1043,10 +1043,10 @@
       "savol": "Detalning qaysi korinishi V da chiziladi?",
       "javob": "Asosiy (bosh korinish)",
       "variantlar": [
+        "Chapdan",
         "Asosiy (bosh korinish)",
         "Ustdan",
-        "Mahalliy",
-        "Chapdan"
+        "Mahalliy"
       ],
       "manba": ", "
     },
@@ -1055,10 +1055,10 @@
       "savol": "Detal bitta kesuvchi tekislik bilan kesilganda qanday qirqim hosil boladi?",
       "javob": "Oddiy",
       "variantlar": [
-        "Oddiy",
         "Qoshimcha",
-        "Murakkab",
-        "Siniq"
+        "Siniq",
+        "Oddiy",
+        "Murakkab"
       ],
       "manba": ", "
     },
@@ -1067,9 +1067,9 @@
       "savol": "Detal ikkita tekislik bilan kesilganda qanday qirqim hosil boladi?",
       "javob": "Murakkab",
       "variantlar": [
-        "Murakkab",
         "Qoshimcha",
         "Oddiy",
+        "Murakkab",
         "Siniq"
       ],
       "manba": ""
@@ -1079,10 +1079,10 @@
       "savol": "Detal W ga parallel tekislik bilan kesilganda qanday qirqim hosil boladi?",
       "javob": "Profil",
       "variantlar": [
+        "Gorizontal",
         "Profil",
-        "Frontal",
         "Qiya",
-        "Gorizontal"
+        "Frontal"
       ],
       "manba": ", "
     },
@@ -1091,10 +1091,10 @@
       "savol": "Detalning korinishini qirqimi bilan qoshib tasvirlashga nima deyiladi?",
       "javob": "Korinishning yarmini qirqimning yarmi bilan birlashtirish",
       "variantlar": [
-        "Korinishning yarmini qirqimning yarmi bilan birlashtirish",
-        "Kondalang",
+        "Mahalliy",
         "Boylama",
-        "Mahalliy"
+        "Kondalang",
+        "Korinishning yarmini qirqimning yarmi bilan birlashtirish"
       ],
       "manba": ""
     },
@@ -1103,9 +1103,9 @@
       "savol": "Detalning ayrim joylari (teshik, oyiq kabi) ni aniqlash maqsadida qanday qirqim qollaniladi?",
       "javob": "Mahalliy",
       "variantlar": [
+        "Pogonali",
         "Mahalliy",
         "Siniq",
-        "Pogonali",
         "Murakkab"
       ],
       "manba": ", "
@@ -1127,10 +1127,10 @@
       "savol": "Detal togrisida tezda tasavvurga ega bolish uchun qanday proyeksiyalash usuli qollaniladi?",
       "javob": "Aksonometrik",
       "variantlar": [
-        "Aksonometrik",
         "Markaziy",
-        "Sonlar bilan belgilangan",
-        "Parallel"
+        "Parallel",
+        "Aksonometrik",
+        "Sonlar bilan belgilangan"
       ],
       "manba": ", "
     },
@@ -1139,10 +1139,10 @@
       "savol": "Qanday sirtning hamma qirralari kesishgan nuqtasi uning uchi deyiladi?",
       "javob": "Piramida",
       "variantlar": [
-        "Piramida",
-        "Shar",
         "Paraboloid",
-        "Prizma"
+        "Prizma",
+        "Piramida",
+        "Shar"
       ],
       "manba": ""
     },
@@ -1151,10 +1151,10 @@
       "savol": "Proyeksiyalovchi nurlar bitta markazdan taralsa, qanday proyeksiyalash usuli deyiladi?",
       "javob": "Markaziy",
       "variantlar": [
-        "Markaziy",
         "Parallel",
-        "Sonlar bilan belgilangan",
-        "Aksonometrik"
+        "Aksonometrik",
+        "Markaziy",
+        "Sonlar bilan belgilangan"
       ],
       "manba": ", "
     },
@@ -1163,10 +1163,10 @@
       "savol": "Chizma xoshiyasi (ramka) qanday yogonlikdagi chiziqda chiziladi?",
       "javob": "Asosiy yogon tutash",
       "variantlar": [
+        "Ingichka shtrix-punktir",
         "Asosiy yogon tutash",
         "Ingichka tutash",
-        "Shtrix",
-        "Ingichka shtrix-punktir"
+        "Shtrix"
       ],
       "manba": ""
     },
@@ -1176,9 +1176,9 @@
       "javob": "Texnik rasm",
       "variantlar": [
         "Texnik rasm",
-        "Izometriya",
         "Trimetriya",
-        "Dimetriya"
+        "Dimetriya",
+        "Izometriya"
       ],
       "manba": ", "
     },
@@ -1187,10 +1187,10 @@
       "savol": "Detal V ga parallel tekislik bilan kesilganda qanday qirqim hosil boladi?",
       "javob": "Frontal",
       "variantlar": [
-        "Frontal",
-        "Profil",
         "Qiya",
-        "Gorizontal"
+        "Profil",
+        "Gorizontal",
+        "Frontal"
       ],
       "manba": ", "
     },
@@ -1199,10 +1199,10 @@
       "savol": "Chizmachilik taxtasida chizmani aniq va tez chizishga imkon beradigan chizgich nima deb ataladi?",
       "javob": "Reysshina",
       "variantlar": [
-        "Reysshina",
         "Uchburchaklik",
         "Lekalo",
-        "Togri chizgich"
+        "Togri chizgich",
+        "Reysshina"
       ],
       "manba": ", "
     },
@@ -1211,10 +1211,10 @@
       "savol": "Izometriyada kvadrat tomonlari koordinata oqlariga parallel bolsa, u qanday korinishda tasvirlanadi?",
       "javob": "Romb",
       "variantlar": [
-        "Romb",
-        "Togri tortburchak",
         "Parallellegram",
-        "Kvadrat"
+        "Togri tortburchak",
+        "Kvadrat",
+        "Romb"
       ],
       "manba": ", "
     },
@@ -1224,9 +1224,9 @@
       "javob": "Parallelida",
       "variantlar": [
         "Parallelida",
-        "Yoqida",
         "Qirrasida",
-        "Uchida"
+        "Uchida",
+        "Yoqida"
       ],
       "manba": ", "
     },
@@ -1247,11 +1247,11 @@
       "savol": "Izometriyada ellipsning kichik oqi qaysi tekislikda Oz bilan qoshilib qoladi?",
       "javob": "Hda",
       "variantlar": [
+        "Wda",
         "Hda",
-        "V da",
         "Wda",
         "P da",
-        "Wda"
+        "V da"
       ],
       "manba": ""
     },
@@ -1260,10 +1260,10 @@
       "savol": "Aksonometrik proyeksiyalar qanday hususiyatga ega?",
       "javob": "Parallel proyeksiyalash",
       "variantlar": [
-        "Parallel proyeksiyalash",
         "Markaziy proyeksiyalash",
+        "Son ishorali proyeksiyalash",
         "Perspektiv proyeksiyalash",
-        "Son ishorali proyeksiyalash"
+        "Parallel proyeksiyalash"
       ],
       "manba": ", "
     },
@@ -1274,8 +1274,8 @@
       "variantlar": [
         "Chizma shtrix chiziqlarsiz berilgan bolsa",
         "Chizma shtrix-punktir chiziqlarsiz berilgan bolsa",
-        "Chizma tolqinsimon chiziqlarsiz berilgan bolsa",
-        "Soddalashtirilgan chizmalarda"
+        "Soddalashtirilgan chizmalarda",
+        "Chizma tolqinsimon chiziqlarsiz berilgan bolsa"
       ],
       "manba": ", "
     },
@@ -1285,9 +1285,9 @@
       "javob": "Perpendikulyar",
       "variantlar": [
         "Perpendikulyar",
-        "Ayqash",
         "Kesishuvchi",
-        "Parallel"
+        "Parallel",
+        "Ayqash"
       ],
       "manba": ", "
     },
@@ -1296,10 +1296,10 @@
       "savol": "Buyumlarning olcham, shakl, ogirlik va boshqa sifatlarini korsatadigan texnik hujjat nima ?",
       "javob": "Standart",
       "variantlar": [
-        "Standart",
         "Spetsifikatsiya",
+        "Ish chizma",
         "Eskiz",
-        "Ish chizma"
+        "Standart"
       ],
       "manba": ""
     },
@@ -1308,10 +1308,10 @@
       "savol": "Standart nima?",
       "javob": "Meyor deb qabul qilingan oziga oxshash namuna, etalon, model",
       "variantlar": [
-        "Meyor deb qabul qilingan oziga oxshash namuna, etalon, model",
         "Korinishlarning joylashishini belgilaydi",
         "Qirqim va kesim turlarini aniqlaydi",
-        "Eskiz chizish bosqichlarini korsatadi"
+        "Eskiz chizish bosqichlarini korsatadi",
+        "Meyor deb qabul qilingan oziga oxshash namuna, etalon, model"
       ],
       "manba": ", "
     },
@@ -1320,8 +1320,8 @@
       "savol": "Chizmalar chizishda koz bilan chizma qogozi orasidagi masofa taxminan qancha mm. bolishi tavsiya etiladi?",
       "javob": "300-350",
       "variantlar": [
-        "300-350",
         "350-400",
+        "300-350",
         "250-300",
         "200-250"
       ],
@@ -1332,9 +1332,9 @@
       "savol": "Chizma chizishda kokrak bilan stol (parta) oraligidagi masofa kamida qancha mm bolishi tavsiya etiladi?",
       "javob": "30-50",
       "variantlar": [
-        "30-50",
-        "45-70",
         "40-45",
+        "45-70",
+        "30-50",
         "40-60"
       ],
       "manba": ", "
@@ -1345,9 +1345,9 @@
       "javob": "Millimetrlarda",
       "variantlar": [
         "Millimetrlarda",
-        "Metrlarda",
         "Santimetrlarda",
-        "Duyumlarda"
+        "Duyumlarda",
+        "Metrlarda"
       ],
       "manba": ""
     },
@@ -1356,10 +1356,10 @@
       "savol": "Aylana yoyi bilan togri chiziqning ozaro silliq birlashish nuqtasi nima deyiladi?",
       "javob": "Otish",
       "variantlar": [
-        "Otish",
         "Kesishish",
-        "Markaz",
-        "Radius"
+        "Radius",
+        "Otish",
+        "Markaz"
       ],
       "manba": ", "
     },
@@ -1369,9 +1369,9 @@
       "javob": "Tutashish",
       "variantlar": [
         "Tutashish",
-        "Markaz",
         "Kesishuv",
-        "Radius"
+        "Radius",
+        "Markaz"
       ],
       "manba": ", "
     },
@@ -1380,10 +1380,10 @@
       "savol": "Togri doiraviy konus oqiga perpendikulyar tekislik bilan kesilsa, qanday egri chiziq hosil boladi?",
       "javob": "Aylana",
       "variantlar": [
+        "Ellips",
         "Aylana",
-        "Parabola",
         "Giperbola",
-        "Ellips"
+        "Parabola"
       ],
       "manba": ", "
     },
@@ -1392,10 +1392,10 @@
       "savol": "Togri doiraviy konusning barcha yasovchilarini kesib otadigan tekislik konus oqiga qiya qilib otkazilsa, kesimda qanday chiziq hosil qilingan boladi?",
       "javob": "Ellips",
       "variantlar": [
+        "Uchburchak",
         "Ellips",
-        "Parabola",
         "Giperbola",
-        "Uchburchak"
+        "Parabola"
       ],
       "manba": ", "
     },
@@ -1405,8 +1405,8 @@
       "javob": "Uchburchak",
       "variantlar": [
         "Uchburchak",
-        "Parabola",
         "Giperbola",
+        "Parabola",
         "Ellips"
       ],
       "manba": ", "
@@ -1417,9 +1417,9 @@
       "javob": "Ellips",
       "variantlar": [
         "Ellips",
+        "Ovoid",
         "Oval",
-        "Aylana",
-        "Ovoid"
+        "Aylana"
       ],
       "manba": ""
     },
@@ -1428,10 +1428,10 @@
       "savol": "Qoshimcha korinish deb nimaga aytiladi?",
       "javob": "Asosiy proyeksiyalar tekisligiga parallel bolmagan tekislikdagi tasvir",
       "variantlar": [
-        "Asosiy proyeksiyalar tekisligiga parallel bolmagan tekislikdagi tasvir",
         "Kubning yoqlaridagi detal tasviri",
-        "Detal sirtining alohida chegaralangan joyining tasviri",
-        "Detalning V dagi tasviri"
+        "Asosiy proyeksiyalar tekisligiga parallel bolmagan tekislikdagi tasvir",
+        "Detalning V dagi tasviri",
+        "Detal sirtining alohida chegaralangan joyining tasviri"
       ],
       "manba": ", "
     },
@@ -1440,8 +1440,8 @@
       "savol": "Silindrik tishli ilashmalarning boshlangich aylanalari qanday korinishda chiziladi?",
       "javob": "Ozaro urinma",
       "variantlar": [
-        "Ozaro urinma",
         "Ozaro ayqash (kesishmas)",
+        "Ozaro urinma",
         "Ozaro ogma qiya",
         "Ozaro kesishuvchi"
       ],
@@ -1455,10 +1455,10 @@
       "savol": "Geometriya sozining manosi? ",
       "javob": "Grekcha er olchayman ",
       "variantlar": [
-        "Grekcha er olchayman ",
-        "Lotincha olchayman",
         "Lotincha qurish yasash",
-        "Grekcha oqlar boyicha olchash"
+        "Lotincha olchayman",
+        "Grekcha oqlar boyicha olchash",
+        "Grekcha er olchayman "
       ]
     },
     {
@@ -1466,10 +1466,10 @@
       "savol": "Geometriya qaerda vujudga kelgan? ",
       "javob": "Misrda ",
       "variantlar": [
-        "Misrda ",
-        "Gretsiyada",
         "Rimda",
-        "Xitoyda"
+        "Misrda ",
+        "Xitoyda",
+        "Gretsiyada"
       ]
     },
     {
@@ -1477,10 +1477,10 @@
       "savol": "Nil daryosi qaerda joylashgan? ",
       "javob": "Misrda ",
       "variantlar": [
-        "Misrda ",
-        "Gretsiyada",
         "Xindistonda",
-        "Xitoyda"
+        "Gretsiyada",
+        "Xitoyda",
+        "Misrda "
       ]
     },
     {
@@ -1489,9 +1489,9 @@
       "javob": "Fales ",
       "variantlar": [
         "Fales ",
-        "Axiles",
         "Pifagor",
-        "Platon"
+        "Platon",
+        "Axiles"
       ]
     },
     {
@@ -1499,10 +1499,10 @@
       "savol": "Xifi exromining balandligini 1chi bolib olchab bergan kim? ",
       "javob": "Fales ",
       "variantlar": [
+        "Pifagor",
         "Fales ",
-        "Platon",
         "Evklid",
-        "Pifagor"
+        "Platon"
       ]
     },
     {
@@ -1511,9 +1511,9 @@
       "javob": "Matematikadan qiziqarli malumotlar ",
       "variantlar": [
         "Matematikadan qiziqarli malumotlar ",
-        "Qiziqarli hikoyalar",
+        "Tasviriy sanatning nazariy asoslari",
         "Piramidalarni olchash, hisoblashga doir malumotlar",
-        "Tasviriy sanatning nazariy asoslari"
+        "Qiziqarli hikoyalar"
       ]
     },
     {
@@ -1532,9 +1532,9 @@
       "savol": "Falesning shogirdi, sharq falsafasi va dinidan tasirlangan va oz maktabiga asos solgan grek olimi? ",
       "javob": "Pifagor ",
       "variantlar": [
-        "Pifagor ",
         "Fales",
         "Axiles",
+        "Pifagor ",
         "Platon"
       ]
     },
@@ -1543,10 +1543,10 @@
       "savol": "Pifagor sonlari deb qanday sonlarga aytiladi? ",
       "javob": "Natural sonlar ",
       "variantlar": [
-        "Natural sonlar ",
-        "Figurali son",
         "Toq sonlar",
-        "Juft sonlar"
+        "Natural sonlar ",
+        "Juft sonlar",
+        "Figurali son"
       ]
     },
     {
@@ -1554,10 +1554,10 @@
       "savol": "Pifagorning shogirdi yangi geometriya fani asoschisi eramizdan avvalgi 427-347 yilda yashagan ",
       "javob": "Platon ",
       "variantlar": [
-        "Platon ",
-        "Prokol",
         "Pifagor",
-        "Fales"
+        "Fales",
+        "Platon ",
+        "Prokol"
       ]
     },
     {
@@ -1566,9 +1566,9 @@
       "javob": "Xorunov.R.X ",
       "variantlar": [
         "Xorunov.R.X ",
+        "Murodov.SH.K",
         "Qirgizboev.YU",
-        "Gromov.M.YA",
-        "Murodov.SH.K"
+        "Gromov.M.YA"
       ]
     },
     {
@@ -1576,10 +1576,10 @@
       "savol": "Negizlarkitobi qaysi olimga tegishli? ",
       "javob": "Evklid ",
       "variantlar": [
+        "Pifagor",
         "Evklid ",
-        "Arximed",
         "R.Dekar",
-        "Pifagor"
+        "Arximed"
       ]
     },
     {
@@ -1587,10 +1587,10 @@
       "savol": "Birinchi bolib sonlarni juft va toq, tub va murakkab sonlarga ajratgan olim kim? ",
       "javob": "Pifagor ",
       "variantlar": [
-        "Pifagor ",
-        "Evklid",
         "Axiles",
-        "Platon"
+        "Pifagor ",
+        "Platon",
+        "Evklid"
       ]
     },
     {
@@ -1598,10 +1598,10 @@
       "savol": "Chizma geometriya fani asoschisi kim? ",
       "javob": "G.Monj ",
       "variantlar": [
+        "Dezar",
         "G.Monj ",
         "Evklid",
-        "M.Vetrubiy",
-        "Dezar"
+        "M.Vetrubiy"
       ]
     },
     {
@@ -1610,9 +1610,9 @@
       "javob": "1746 yilda Fransiyada ",
       "variantlar": [
         "1746 yilda Fransiyada ",
+        "1764 y. Fransiyada",
         "1740 yilda Germaniyada",
-        "1670 y. Gollandiyada",
-        "1764 y. Fransiyada"
+        "1670 y. Gollandiyada"
       ]
     },
     {
@@ -1620,8 +1620,8 @@
       "savol": "G.Monj necha yoshdan boshlab magistrlar kollejida fizikada dars bera boshlaydi? ",
       "javob": "16 yoshdan ",
       "variantlar": [
-        "16 yoshdan ",
         "18 yoshdan",
+        "16 yoshdan ",
         "17 yoshdan",
         "19 yoshdan"
       ]
@@ -1631,10 +1631,10 @@
       "savol": "G.Monjning otasidan qolgan boylik? ",
       "javob": "Yaxshi talim ",
       "variantlar": [
-        "Yaxshi talim ",
-        "Mol mulk",
+        "Kasb xunar",
         "Katta mablag",
-        "Kasb xunar"
+        "Mol mulk",
+        "Yaxshi talim "
       ]
     },
     {
@@ -1654,9 +1654,9 @@
       "javob": "G.Monj ",
       "variantlar": [
         "G.Monj ",
+        "Dezar",
         "R.Dekart",
-        "SHtayner",
-        "Dezar"
+        "SHtayner"
       ]
     },
     {
@@ -1664,9 +1664,9 @@
       "savol": "Rossiyada chizma geometriya fani qachondan oqitila boshlandi? ",
       "javob": "1810y. ",
       "variantlar": [
+        "1815y.",
         "1810y. ",
         "1816y.",
-        "1815y.",
         "1861y."
       ]
     },
@@ -1675,10 +1675,10 @@
       "savol": "Parij shaxri ximoyachisi va vatanparvari? ",
       "javob": "G.Monj ",
       "variantlar": [
-        "G.Monj ",
-        "B.Napaleon",
+        "Dezar",
         "Arximed",
-        "Dezar"
+        "B.Napaleon",
+        "G.Monj "
       ]
     },
     {
@@ -1686,10 +1686,10 @@
       "savol": "Chizma bu texnika tilidirdegan ibora muallifi?",
       "javob": "G.Monj",
       "variantlar": [
-        "G.Monj",
-        "Kolotov",
         "Arximed",
-        "Sevostyanov"
+        "G.Monj",
+        "Sevostyanov",
+        "Kolotov"
       ]
     },
     {
@@ -1697,10 +1697,10 @@
       "savol": "Chizma geometriya fanining Rossiyada 1chi professorlik unvonini olgan olim?",
       "javob": "K.Pote",
       "variantlar": [
-        "K.Pote",
-        "Mezer",
+        "Sevostyanov",
         "G.Monj",
-        "Sevostyanov"
+        "K.Pote",
+        "Mezer"
       ]
     },
     {
@@ -1708,9 +1708,9 @@
       "savol": "Frontal proeksiyalar tekisligi qanday xarf bilan belgilanadi?",
       "javob": "V",
       "variantlar": [
-        "V",
         "W",
         "F",
+        "V",
         "H"
       ]
     },
@@ -1719,9 +1719,9 @@
       "savol": "Aksonometriya sozining manosi nima?",
       "javob": "Oqlar boyicha olchash",
       "variantlar": [
-        "Oqlar boyicha olchash",
         "Yer olchash",
         "Yozaman chizaman",
+        "Oqlar boyicha olchash",
         "Teng olchash"
       ]
     },
@@ -1731,9 +1731,9 @@
       "javob": "6ta",
       "variantlar": [
         "6ta",
-        "5ta",
+        "3ta",
         "4ta",
-        "3ta"
+        "5ta"
       ]
     },
     {
@@ -1741,10 +1741,10 @@
       "savol": "Chizma geometriya fanini kim yaratgan?",
       "javob": "Gospar Monj",
       "variantlar": [
-        "Gospar Monj",
-        "Mark Vitruviy",
+        "Rene Dekart",
         "Jerar Dezarg",
-        "Rene Dekart"
+        "Mark Vitruviy",
+        "Gospar Monj"
       ]
     },
     {
@@ -1763,9 +1763,9 @@
       "savol": "Chizma geometriya fani yer sharining qaysi qitasida paydo bolgan?",
       "javob": "Evropa",
       "variantlar": [
-        "Evropa",
         "Osiyo",
         "Amerika",
+        "Evropa",
         "Afrika"
       ]
     },
@@ -1774,10 +1774,10 @@
       "savol": "Chizma geometriya fani Ozbekistonda qaysi yildan boshlab oqitilgan?",
       "javob": "1930",
       "variantlar": [
-        "1930",
         "1900",
         "1918",
-        "1920"
+        "1920",
+        "1930"
       ]
     },
     {
@@ -1785,10 +1785,10 @@
       "savol": "R.Xorunov qaysi yilda professor bolgan?",
       "javob": "1966",
       "variantlar": [
-        "1966",
-        "1970",
+        "1981",
         "1953",
-        "1981"
+        "1966",
+        "1970"
       ]
     },
     {
@@ -1796,9 +1796,9 @@
       "savol": "Oliy oquv yurtlari uchun Mashinasozlik chizmachiligi fanidan ozbek tilida birinchi adabiyotni kim yaratgan?",
       "javob": "YU.Qirgizboev",
       "variantlar": [
-        "YU.Qirgizboev",
         "Xorunov.R.X",
         "E.Sobitov",
+        "YU.Qirgizboev",
         "I.Raxmanov"
       ]
     },
@@ -1807,10 +1807,10 @@
       "savol": "Professor S.M.Kolotov ilmiy maktabiga Ozbekistondan birinchi aspirant kim bolgan?",
       "javob": "SH.K.Murodov",
       "variantlar": [
-        "SH.K.Murodov",
+        "J.Yodgorov",
         "Xorunov.R.X",
         "A.Akbarov",
-        "J.Yodgorov"
+        "SH.K.Murodov"
       ]
     },
     {
@@ -1818,10 +1818,10 @@
       "savol": "Ozbekistondan grafika fanlaridan birinchi kim doktorlik disertatsiya himoya qilgan?",
       "javob": "D.Qochqorova",
       "variantlar": [
-        "D.Qochqorova",
-        "Xorunov.R.X",
         "SH.K.Murodov",
-        "J.Yodgorov"
+        "D.Qochqorova",
+        "J.Yodgorov",
+        "Xorunov.R.X"
       ]
     },
     {
@@ -1829,10 +1829,10 @@
       "savol": "Professor R.Xorunov 05.0101. Amaliy geometriya va muxandislik grafikasi mutaxassisligi boyicha nechta ilmiy darajali mutaxassislar tayyorlagan",
       "javob": "5ta",
       "variantlar": [
-        "5ta",
-        "4ta",
         "3ta",
-        "1ta"
+        "1ta",
+        "4ta",
+        "5ta"
       ]
     },
     {
@@ -1840,10 +1840,10 @@
       "savol": "Umum talim maktablari uchun chizmachilik darsligini Respublikada birinchi bolib kim yaratgan?",
       "javob": "YU.Qirgizboev",
       "variantlar": [
-        "YU.Qirgizboev",
         "Xorunov.R.X",
         "A.Umronxojaev",
-        "I.Raxmanov"
+        "I.Raxmanov",
+        "YU.Qirgizboev"
       ]
     },
     {
@@ -1851,10 +1851,10 @@
       "savol": "Toshkentda necha marta ilmiy konferensiya otkazilgan?",
       "javob": "2 marta",
       "variantlar": [
+        "21 marta",
         "2 marta",
-        "3 marta",
         "5 marta",
-        "21 marta"
+        "3 marta"
       ]
     },
     {
@@ -1863,9 +1863,9 @@
       "javob": "Leningrad",
       "variantlar": [
         "Leningrad",
-        "Moskva",
+        "Tibilisi",
         "Kiev",
-        "Tibilisi"
+        "Moskva"
       ]
     },
     {
@@ -1873,10 +1873,10 @@
       "savol": "G.Monjning Chizma geometriya kitobi qachon chop etilgan?",
       "javob": "1798 y.",
       "variantlar": [
-        "1798 y.",
-        "1789 y.",
+        "1795 y.",
         "1785 y.",
-        "1795 y."
+        "1798 y.",
+        "1789 y."
       ]
     },
     {
@@ -1884,10 +1884,10 @@
       "savol": "A0 formatning olchamlari qanday?",
       "javob": "1189x841",
       "variantlar": [
-        "1189x841",
         "297x420",
         "148x210",
-        "210x297"
+        "210x297",
+        "1189x841"
       ]
     },
     {
@@ -1895,10 +1895,10 @@
       "savol": "Chiqarish chiziqlari olcham chiziqlaridan necha mm chiqib turishi kerak?",
       "javob": "34 mm",
       "variantlar": [
-        "34 mm",
-        "78 mm",
+        "45 mm",
         "56 mm",
-        "45 mm"
+        "34 mm",
+        "78 mm"
       ]
     },
     {
@@ -1906,10 +1906,10 @@
       "savol": "Olcham chiziqlari bilan kontur chiziqlari orasida masofa qancha?",
       "javob": "710",
       "variantlar": [
+        "1015",
         "710",
         "56",
-        "57",
-        "1015"
+        "57"
       ]
     },
     {
@@ -1918,9 +1918,9 @@
       "javob": "Buyumning korinishlarida va yaqqol tasvirlarda",
       "variantlar": [
         "Buyumning korinishlarida va yaqqol tasvirlarda",
+        "Profil proeksiyada",
         "Frontal proeksiyada",
-        "Gorizontal proeksiyada",
-        "Profil proeksiyada"
+        "Gorizontal proeksiyada"
       ]
     },
     {
@@ -1928,10 +1928,10 @@
       "savol": "Buyumning koz bilan chamalab, aksonometriya qoidalari asosida bajarilgan tasvir nima deb ataladi?",
       "javob": "Texnik rasm",
       "variantlar": [
-        "Texnik rasm",
-        "Rasm",
+        "Grafik tasvir",
         "Yaqqol rasm",
-        "Grafik tasvir"
+        "Texnik rasm",
+        "Rasm"
       ]
     },
     {
@@ -1941,8 +1941,8 @@
       "variantlar": [
         "Eskiz",
         "Texnik rasm",
-        "Korinish",
-        "Aksonometriya"
+        "Aksonometriya",
+        "Korinish"
       ]
     },
     {
@@ -1950,10 +1950,10 @@
       "savol": "Asosiy korinishlar qaysilar?",
       "javob": "Olddan korinish, ustdan korinish,chapdan korinishi",
       "variantlar": [
-        "Olddan korinish, ustdan korinish,chapdan korinishi",
-        "CHapdan, ongdan, olddan korinishi",
         "Ustdan, olddan, ongdan korinishi",
-        "Orqadan, ustdan, chapdan korinishi"
+        "Olddan korinish, ustdan korinish,chapdan korinishi",
+        "Orqadan, ustdan, chapdan korinishi",
+        "CHapdan, ongdan, olddan korinishi"
       ]
     },
     {
@@ -1963,8 +1963,8 @@
       "variantlar": [
         "Maxalliy korinish",
         "Qirqim",
-        "Kesim",
-        "Maxalliy qirqim"
+        "Maxalliy qirqim",
+        "Kesim"
       ]
     },
     {
@@ -1972,10 +1972,10 @@
       "savol": "Buyumning 1 yoki bir nechta tekislik bilan fikran kesilishidan hosil bolgan joyning tasviriga nima deyiladi?",
       "javob": "Kesim",
       "variantlar": [
-        "Kesim",
-        "Ayrim joy qirqimi",
         "Chiqarilgan kesim",
-        "Qirqim"
+        "Qirqim",
+        "Kesim",
+        "Ayrim joy qirqimi"
       ]
     },
     {
@@ -1984,9 +1984,9 @@
       "javob": "Muxammad al Xorazmiy",
       "variantlar": [
         "Muxammad al Xorazmiy",
-        "Farobiy",
         "Al-Mamun",
-        "Mirzo Ulugbek"
+        "Mirzo Ulugbek",
+        "Farobiy"
       ]
     },
     {
@@ -1994,9 +1994,9 @@
       "savol": "Hindlarning onlik sistemasi raqamlarini soddalashtirdi va arab tilida bayon etdi. Uning risolasi tufayli onliklar arablarga, songra Evropaga otdi...",
       "javob": "Muxammad al Xorazmiy",
       "variantlar": [
-        "Muxammad al Xorazmiy",
-        "Axmad al Fargoniy",
         "Mirzo Ulugbek",
+        "Axmad al Fargoniy",
+        "Muxammad al Xorazmiy",
         "Farobiy"
       ]
     },
@@ -2005,10 +2005,10 @@
       "savol": "Amerikalik sharqshunos D.Sarton uni Barcha zamonlarning eng buyuk matematiklaridan biri deb tariflaydi. Bu alloma...",
       "javob": "Al Xorazmiy",
       "variantlar": [
-        "Al Xorazmiy",
-        "Pifagor",
+        "Axmad al Fargoniy",
         "Mirzo Ulugbek",
-        "Axmad al Fargoniy"
+        "Al Xorazmiy",
+        "Pifagor"
       ]
     },
     {
@@ -2016,10 +2016,10 @@
       "savol": "Kattalashtirish masshtablari qaysi qatorda?",
       "javob": "2:1,  2,5:1, 20:1",
       "variantlar": [
-        "2:1,  2,5:1, 20:1",
-        "1:2, 5:4, 1:10,",
+        "1:2,  12,5,  2:15",
         "2:1, 1:5, 1:10",
-        "1:2,  12,5,  2:15"
+        "2:1,  2,5:1, 20:1",
+        "1:2, 5:4, 1:10,"
       ]
     },
     {
@@ -2027,10 +2027,10 @@
       "savol": "Kesuvchi tekislik xolatiga kora qirqimlar necha xil boladi?",
       "javob": "2 xil",
       "variantlar": [
-        "2 xil",
-        "4 xil",
         "5 xil",
-        "3 xil"
+        "3 xil",
+        "4 xil",
+        "2 xil"
       ]
     },
     {
@@ -2040,8 +2040,8 @@
       "variantlar": [
         "Ibn Sino",
         "Abu Rayxon Beruniy",
-        "Farobiy",
-        "Al-Mamun"
+        "Al-Mamun",
+        "Farobiy"
       ]
     },
     {
@@ -2049,10 +2049,10 @@
       "savol": "Temurning nabirasi buyuk ozbek olimi davlat arbobi Ziji koragoniy asarini yozgan alloma...",
       "javob": "Ulugbek",
       "variantlar": [
-        "Ulugbek",
         "Bobur",
+        "Farobiy",
         "Shoxrux",
-        "Farobiy"
+        "Ulugbek"
       ]
     },
     {
@@ -2060,10 +2060,10 @@
       "savol": "Hamma tomondan tekis kopburchaklar bilan chegaralangan  jism nima deyiladi?",
       "javob": "Kopyoq",
       "variantlar": [
+        "Silindr",
         "Kopyoq",
-        "Qirra",
         "Konus",
-        "Silindr"
+        "Qirra"
       ]
     },
     {
@@ -2071,10 +2071,10 @@
       "savol": "Kopyoqlikning ikki yogi kesishgan chiziq qanday nomlanadi?",
       "javob": "Qirra",
       "variantlar": [
-        "Qirra",
         "Oq",
+        "Asos",
         "Diogonal",
-        "Asos"
+        "Qirra"
       ]
     },
     {
@@ -2082,10 +2082,10 @@
       "savol": "Kopyoqlikning ozaro kesishgan qirralari nima deyiladi?",
       "javob": "Uch",
       "variantlar": [
-        "Uch",
         "Diogonal",
-        "Yoq",
-        "Qirra"
+        "Qirra",
+        "Uch",
+        "Yoq"
       ]
     },
     {
@@ -2094,8 +2094,8 @@
       "javob": "Piramida",
       "variantlar": [
         "Piramida",
-        "Prizma",
         "Oktaedr",
+        "Prizma",
         "Tetroedr"
       ]
     },
@@ -2105,8 +2105,8 @@
       "javob": "Piramida",
       "variantlar": [
         "Piramida",
-        "Prizma",
         "Kub",
+        "Prizma",
         "Paralallipiped"
       ]
     },
@@ -2115,10 +2115,10 @@
       "savol": "A4 formatining olchamlari qaysilar?",
       "javob": "210 x297",
       "variantlar": [
-        "210 x297",
-        "297x594",
+        "297x420",
         "594x841",
-        "297x420"
+        "210 x297",
+        "297x594"
       ]
     },
     {
@@ -2126,10 +2126,10 @@
       "savol": "Perspektiva deganda nimani tushunasiz?",
       "javob": "Uzoqqa qarash",
       "variantlar": [
-        "Uzoqqa qarash",
-        "Rasm chizaman",
         "Oyna orqali qarayman",
-        "Boyoq bilan rasm ishlash"
+        "Boyoq bilan rasm ishlash",
+        "Rasm chizaman",
+        "Uzoqqa qarash"
       ]
     },
     {
@@ -2137,9 +2137,9 @@
       "savol": "210x297 qaysi formatning olchamlari ?",
       "javob": "A4",
       "variantlar": [
-        "A4",
-        "A3",
         "A2",
+        "A3",
+        "A4",
         "A5"
       ]
     },
@@ -2149,9 +2149,9 @@
       "javob": "Gorizontal",
       "variantlar": [
         "Gorizontal",
+        "Profil",
         "Frontal",
-        "Umumiy vaziyatdagi",
-        "Profil"
+        "Umumiy vaziyatdagi"
       ]
     },
     {
@@ -2159,10 +2159,10 @@
       "savol": "Format sozining manosi",
       "javob": "Korinish",
       "variantlar": [
-        "Korinish",
-        "Qogoz",
+        "Tomonlar",
         "Vatman",
-        "Tomonlar"
+        "Korinish",
+        "Qogoz"
       ]
     },
     {
@@ -2170,10 +2170,10 @@
       "savol": "Qogoz qaerda kashf qilingan?",
       "javob": "Xitoyda",
       "variantlar": [
-        "Xitoyda",
         "Angliyada",
-        "Fransiyada",
-        "Germaniyada"
+        "Germaniyada",
+        "Xitoyda",
+        "Fransiyada"
       ]
     },
     {
@@ -2181,10 +2181,10 @@
       "savol": "Perspektiva nimani orgatadi?",
       "javob": "Buyumning fazoviy holatini tekislikda togri tasvirlash metodlarini ochib beradi",
       "variantlar": [
-        "Buyumning fazoviy holatini tekislikda togri tasvirlash metodlarini ochib beradi",
         "Tabiatni tasvirlashni",
-        "Qalamtasvirda ifodalashni",
-        "Ranglar orqali tasvirlashni"
+        "Buyumning fazoviy holatini tekislikda togri tasvirlash metodlarini ochib beradi",
+        "Ranglar orqali tasvirlashni",
+        "Qalamtasvirda ifodalashni"
       ]
     },
     {
@@ -2203,10 +2203,10 @@
       "savol": "Perspektiv tasvir yasash qanday proeksiyalash usuliga asoslangan?",
       "javob": "Markaziy",
       "variantlar": [
-        "Markaziy",
-        "Aksonometrik",
         "Ortoganal",
-        "Parallel"
+        "Parallel",
+        "Markaziy",
+        "Aksonometrik"
       ]
     },
     {
@@ -2214,10 +2214,10 @@
       "savol": "Geksaedrning nechta yogi bor",
       "javob": "6ta",
       "variantlar": [
-        "6ta",
         "8ta",
-        "5ta",
-        "4ta"
+        "4ta",
+        "6ta",
+        "5ta"
       ]
     },
     {
@@ -2225,10 +2225,10 @@
       "savol": "Asosiy yozuv nima?",
       "javob": "Chizmaning pasporti",
       "variantlar": [
-        "Chizmaning pasporti",
-        "Chizmaning tasviri",
         "Chizma olchamlari",
-        "Chizmadagi detallar soni"
+        "Chizmadagi detallar soni",
+        "Chizmaning tasviri",
+        "Chizmaning pasporti"
       ]
     },
     {
@@ -2236,9 +2236,9 @@
       "savol": "Donishnoma kimning asari",
       "javob": "Abu Ali Ibn Sino",
       "variantlar": [
-        "Abu Ali Ibn Sino",
         "Abu Rayxon Beruniy",
         "Xorazmiy",
+        "Abu Ali Ibn Sino",
         "Ulugbek"
       ]
     },
@@ -2247,10 +2247,10 @@
       "savol": "Umrining oxirigacha chizma geometriya faniga, politexnika maktabiga va Napoleonga sodiq bolib qolgan inson?",
       "javob": "Gospar Monj",
       "variantlar": [
-        "Gospar Monj",
-        "R.Dekart",
+        "Shals",
         "Dezarg",
-        "Shals"
+        "Gospar Monj",
+        "R.Dekart"
       ]
     },
     {
@@ -2258,10 +2258,10 @@
       "savol": "Bosh korinish deb qaysi korinish qabul qilingan?",
       "javob": "Olddan korinish",
       "variantlar": [
-        "Olddan korinish",
         "Ustdan korinish",
-        "CHapdan korinish",
-        "Ongdan korinish"
+        "Ongdan korinish",
+        "Olddan korinish",
+        "CHapdan korinish"
       ]
     },
     {
@@ -2269,10 +2269,10 @@
       "savol": "Rezbalar necha xil boladi?",
       "javob": "2xil",
       "variantlar": [
-        "2xil",
         "3xil",
-        "1xil",
-        "4xil"
+        "4xil",
+        "2xil",
+        "1xil"
       ]
     },
     {
@@ -2281,9 +2281,9 @@
       "javob": "Tutashma deb ataladi.",
       "variantlar": [
         "Tutashma deb ataladi.",
+        "Egri chiziq deb ataladi.",
         "Kesim deb ataladi",
-        "Qirqim deb ataladi",
-        "Egri chiziq deb ataladi."
+        "Qirqim deb ataladi"
       ]
     },
     {
@@ -2291,10 +2291,10 @@
       "savol": "Barcha tomondan tekis kopburchaklar  (yoqlar) bilan chegaralangan  jism nima deyiladi?",
       "javob": "Kopyoq",
       "variantlar": [
-        "Kopyoq",
         "Silindr",
         "Konus",
-        "Kub"
+        "Kub",
+        "Kopyoq"
       ]
     },
     {
@@ -2303,9 +2303,9 @@
       "javob": "Kub",
       "variantlar": [
         "Kub",
+        "Dodekaedr",
         "Piramida",
-        "Oktaedr",
-        "Dodekaedr"
+        "Oktaedr"
       ]
     },
     {
@@ -2313,8 +2313,8 @@
       "savol": "Ozaro parallel va bir xil kattalikdagi ostki va ustki asoslarni tortburchaklar yordamida birlashtiruvchi kopyoqlik nima deyiladi?",
       "javob": "Prizma",
       "variantlar": [
-        "Prizma",
         "Piramida",
+        "Prizma",
         "Oktaedr",
         "Dodekaedr"
       ]
@@ -2325,9 +2325,9 @@
       "javob": "Chizma chizishda bir chiziqni ikkinchi chiziqqa rovon qoshishga",
       "variantlar": [
         "Chizma chizishda bir chiziqni ikkinchi chiziqqa rovon qoshishga",
-        "Lekalo yordamida chizilgan chiziqlarga",
         "Sirkul bilan chizilgan chiziqlarga",
-        "Egri chiziqlarga"
+        "Egri chiziqlarga",
+        "Lekalo yordamida chizilgan chiziqlarga"
       ]
     },
     {
@@ -2335,9 +2335,9 @@
       "savol": "Markaziy proeksiyalashda proeksiyalash markazidan  otmaydigan togri chiziqning proeksiyasi nima boladi.",
       "javob": "Togri chiziq",
       "variantlar": [
+        "Egri chiziq",
         "Togri chiziq",
         "Nuqta",
-        "Egri chiziq",
         "Tekislikka parallel"
       ]
     },
@@ -2357,10 +2357,10 @@
       "savol": "Bitta togri chiziqqa tegishli bolmagan 3 ta nuqta orqali nima ifodalanadi?",
       "javob": "Tekislik",
       "variantlar": [
-        "Tekislik",
-        "Jism",
+        "Kopyoq",
         "Togri chiziq",
-        "Kopyoq"
+        "Jism",
+        "Tekislik"
       ]
     },
     {
@@ -2368,10 +2368,10 @@
       "savol": "P2 ga parallel tekislik qanday tekislik?",
       "javob": "Frontal",
       "variantlar": [
-        "Frontal",
+        "Gorizontal",
         "Umumiy faziyatdagi",
-        "Profil",
-        "Gorizontal"
+        "Frontal",
+        "Profil"
       ]
     },
     {
@@ -2380,9 +2380,9 @@
       "javob": "297x420",
       "variantlar": [
         "297x420",
-        "420x580",
         "580x410",
-        "279x410"
+        "279x410",
+        "420x580"
       ]
     },
     {
@@ -2390,10 +2390,10 @@
       "savol": "Qalamning grafit qismi qancha ochilishi kerak?",
       "javob": "8  10mm",
       "variantlar": [
-        "8  10mm",
-        "7  10mm",
         "10  12mm",
-        "5  10mm"
+        "8  10mm",
+        "5  10mm",
+        "7  10mm"
       ]
     },
     {
@@ -2401,9 +2401,9 @@
       "savol": "Aylanani  izometriyada  chizishda ellips orniga chiziladigan shakl qanday nom bilan ataladi",
       "javob": "oval",
       "variantlar": [
+        "shar",
         "oval",
         "doira",
-        "shar",
         "parobola"
       ]
     },
@@ -2413,9 +2413,9 @@
       "javob": "H",
       "variantlar": [
         "H",
-        "V",
         "W",
-        "F"
+        "F",
+        "V"
       ]
     },
     {
@@ -2423,10 +2423,10 @@
       "savol": "Standart sozining manosi nima?",
       "javob": "Norma, namuna, qoida",
       "variantlar": [
+        "Qoida, tartib..",
         "Norma, namuna, qoida",
-        "Norma, qonun",
         "Namuna, olcham",
-        "Qoida, tartib.."
+        "Norma, qonun"
       ]
     },
     {
@@ -2434,10 +2434,10 @@
       "savol": "Detalning yuqoridan  korinishi qaysi proeksiya tekisligida xosil boladi",
       "javob": "Gorizontalda",
       "variantlar": [
-        "Gorizontalda",
         "Profilda",
-        "Frontalda",
-        "CHapdan korinishda."
+        "Gorizontalda",
+        "CHapdan korinishda.",
+        "Frontalda"
       ]
     },
     {
@@ -2445,10 +2445,10 @@
       "savol": "Qirqimga necha gradusda shtrix beriladi",
       "javob": "450",
       "variantlar": [
-        "450",
-        "750",
         "350",
-        "600"
+        "600",
+        "450",
+        "750"
       ]
     },
     {
@@ -2456,10 +2456,10 @@
       "savol": "Ikki va undan ortiq  kesuvchi tekislik bilan hosil qilingan qirqim nima deyiladi?",
       "javob": "Murakkab qirqim",
       "variantlar": [
-        "Murakkab qirqim",
-        "Oddiy qirqim",
         "Siniq qirqim",
-        "Mahalliy qirqim"
+        "Mahalliy qirqim",
+        "Murakkab qirqim",
+        "Oddiy qirqim"
       ]
     },
     {
@@ -2468,8 +2468,8 @@
       "javob": "Togri chiziq",
       "variantlar": [
         "Togri chiziq",
-        "Aylana",
         "Nuqta",
+        "Aylana",
         "Siniq chiziq"
       ]
     },
@@ -2478,10 +2478,10 @@
       "savol": "M 1 : 2,5 Qanday masshtab  berilgan?",
       "javob": "kichiklashtirish",
       "variantlar": [
+        "natural",
         "kichiklashtirish",
-        "birga-bir",
         "kattalashtirish",
-        "natural"
+        "birga-bir"
       ]
     },
     {
@@ -2489,10 +2489,10 @@
       "savol": "Sharga  nechta ichki shakl chizish mumkin?",
       "javob": "5ta",
       "variantlar": [
-        "5ta",
+        "2ta",
         "4ta",
-        "3ta",
-        "2ta"
+        "5ta",
+        "3ta"
       ]
     },
     {
@@ -2500,10 +2500,10 @@
       "savol": "Kubning nechta qirralari mavjud",
       "javob": "12ta",
       "variantlar": [
-        "12ta",
-        "10ta",
         "14ta",
-        "8ta"
+        "12ta",
+        "8ta",
+        "10ta"
       ]
     },
     {
@@ -2511,10 +2511,10 @@
       "savol": "Texnik rasmlar, chizmalar, eskizlar,yaqqol tasvirlar va sxemalarni umumiy qanday nom bilan ataymiz?",
       "javob": "Grafik tasvirlar",
       "variantlar": [
-        "Grafik tasvirlar",
-        "Mashinasozlik chizmalari",
         "Sxemalar",
-        "Chizma geometriya"
+        "Chizma geometriya",
+        "Mashinasozlik chizmalari",
+        "Grafik tasvirlar"
       ]
     },
     {
@@ -2522,10 +2522,10 @@
       "savol": "Shriftlar necha gradus qiyalikda yoziladi",
       "javob": "750",
       "variantlar": [
-        "750",
-        "450",
         "350",
-        "600"
+        "600",
+        "450",
+        "750"
       ]
     },
     {
@@ -2533,10 +2533,10 @@
       "savol": "Asosiy yogon chiziqdan qaerlarda foydalaniladi.",
       "javob": "Predmetning korinadigan kontur chiziqlari",
       "variantlar": [
-        "Predmetning korinadigan kontur chiziqlari",
         "Ramka va burchak shtamplari",
-        "Korinmaydigan kontur chiziqlar.",
-        "Chiqarish va olcham chiziqlari"
+        "Chiqarish va olcham chiziqlari",
+        "Predmetning korinadigan kontur chiziqlari",
+        "Korinmaydigan kontur chiziqlar."
       ]
     },
     {
@@ -2546,8 +2546,8 @@
       "variantlar": [
         "594x841",
         "590x840",
-        "840x1189",
-        "1189x840"
+        "1189x840",
+        "840x1189"
       ]
     },
     {
@@ -2555,10 +2555,10 @@
       "savol": "Shtrix chiziqdan qayerlarda foydalanamiz?",
       "javob": "Detalning kozga korinmaydigan konturini chizishda",
       "variantlar": [
-        "Detalning kozga korinmaydigan konturini chizishda",
         "Markaz chiziqlarini chizishda",
-        "Simmetrik oqni chizishda",
-        "Chiqarish chiziqlarida"
+        "Detalning kozga korinmaydigan konturini chizishda",
+        "Chiqarish chiziqlarida",
+        "Simmetrik oqni chizishda"
       ]
     },
     {
@@ -2568,8 +2568,8 @@
       "variantlar": [
         "Kesuvchi tekislik frontal proeksiyalar tekisligiga parallel bolsa",
         "Kesuvchi tekislik frontaldan otsa",
-        "Ogma qirqimga",
-        "Siniq qirqimga"
+        "Siniq qirqimga",
+        "Ogma qirqimga"
       ]
     },
     {
@@ -2579,8 +2579,8 @@
       "variantlar": [
         "Chizmada 1ta kesuvchi tekislik bilan hosil bolgan qirqim",
         "1marta kesuvchi tekislik bilan kesilgan qirqimga",
-        "Ayrim joy qirqimiga",
-        "Mahalliy qirqimga"
+        "Mahalliy qirqimga",
+        "Ayrim joy qirqimiga"
       ]
     },
     {
@@ -2588,10 +2588,10 @@
       "savol": "Korinish bilan qirqimni birlashtiruvchi chiziq...",
       "javob": "Simmetriya oqi",
       "variantlar": [
-        "Simmetriya oqi",
-        "SHtrix chiziq",
         "Ingichka tutash chiziq",
-        "SHtrix-punktir chiziq"
+        "SHtrix chiziq",
+        "SHtrix-punktir chiziq",
+        "Simmetriya oqi"
       ]
     },
     {
@@ -2599,10 +2599,10 @@
       "savol": "Evklid geometriyasining nomini toping?",
       "javob": "Negizlar",
       "variantlar": [
-        "Negizlar",
-        "Geometriya",
         "Arifmetika",
-        "Matematika"
+        "Matematika",
+        "Geometriya",
+        "Negizlar"
       ]
     },
     {
@@ -2610,10 +2610,10 @@
       "savol": "Detalning bosh korinishi qaysi proeksiyada joylashadi.",
       "javob": "frontalda",
       "variantlar": [
-        "frontalda",
-        "gorizontalda",
+        "ustdan korinishda",
         "profilda",
-        "ustdan korinishda"
+        "gorizontalda",
+        "frontalda"
       ]
     },
     {
@@ -2621,10 +2621,10 @@
       "savol": "Samarqanddagi Astranomiya   maktabi ga kim asos soldi?",
       "javob": "Mirzo Ulugbek",
       "variantlar": [
-        "Mirzo Ulugbek",
+        "Al Farobiy",
         "Al Xorazmiy",
         "Ibn Sino",
-        "Al Farobiy"
+        "Mirzo Ulugbek"
       ]
     }
   ],
@@ -2636,9 +2636,9 @@
       "javob": "Rasm chizish uchun qalam asosi",
       "variantlar": [
         "Rasm chizish uchun qalam asosi",
-        "Rangli qalamning o’ziga xos turlari",
         "Mo’yqalamning o’ziga xos turlari",
-        "Rasm chizish uchun moslama"
+        "Rasm chizish uchun moslama",
+        "Rangli qalamning o’ziga xos turlari"
       ]
     },
     {
@@ -2647,8 +2647,8 @@
       "javob": "Qalam bilan rasm chizish",
       "variantlar": [
         "Qalam bilan rasm chizish",
-        "Tush bilan ishlangan ish",
         "Sangina bilan ishlangan ish",
+        "Tush bilan ishlangan ish",
         "Tez xolatda ishlanadigan ish"
       ]
     },
@@ -2657,9 +2657,9 @@
       "savol": "Qalamtasvirda ko`rsatilgan anjomlardan qaysi biri foydalanilmaydi?",
       "javob": "Sirkul",
       "variantlar": [
-        "Sirkul",
         "Pastel",
         "Sous",
+        "Sirkul",
         "Komir"
       ]
     },
@@ -2668,8 +2668,8 @@
       "savol": "Qalamtasvir ishlashda yuqori darajada aniqlik va ilmiy asos bo’lishi kerak degan so’zlar qaysi rassomga tegishli?",
       "javob": "Pamfil",
       "variantlar": [
-        "Pamfil",
         "Sikkion",
+        "Pamfil",
         "Appeleks",
         "Parassiy"
       ]
@@ -2679,10 +2679,10 @@
       "savol": "Faktura nima?",
       "javob": "Qog’ozning o’ziga xos xususiyati",
       "variantlar": [
-        "Qog’ozning o’ziga xos xususiyati",
-        "Qog’ozning umumiy xajmi",
         "Qog’oz xajmi va yaroqliligi",
-        "Qog’ozning og’irlik darajasi"
+        "Qog’ozning og’irlik darajasi",
+        "Qog’ozning o’ziga xos xususiyati",
+        "Qog’ozning umumiy xajmi"
       ]
     },
     {
@@ -2691,9 +2691,9 @@
       "javob": "Oq – qora tasvirda ishlash",
       "variantlar": [
         "Oq – qora tasvirda ishlash",
+        "Guashda ishlash",
         "Sangina bilan ishlash",
-        "Sangina bilan ishlash",
-        "Guashda ishlash"
+        "Sangina bilan ishlash"
       ]
     },
     {
@@ -2701,10 +2701,10 @@
       "savol": "“Kompozitsiya” -bu :",
       "javob": "Lotinchadan olingan tuzaman va yig`aman",
       "variantlar": [
-        "Lotinchadan olingan tuzaman va yig`aman",
-        "Tabiatda chizaman degan ma`noni anglatadi",
+        "Gorizontalga nisbatan tik chiziq",
         "Gorizontal, tekislikka nisbatan tik chiziq",
-        "Gorizontalga nisbatan tik chiziq"
+        "Lotinchadan olingan tuzaman va yig`aman",
+        "Tabiatda chizaman degan ma`noni anglatadi"
       ]
     },
     {
@@ -2712,10 +2712,10 @@
       "savol": "Assimetriya – bu:",
       "javob": "Narsa yoki tasvirning bir-biriga o`xshamasligi",
       "variantlar": [
-        "Narsa yoki tasvirning bir-biriga o`xshamasligi",
         "Narsaning ikki qismining bir-biriga o`xshashligi",
         "Gorizontal, tekislikka nisbatan tik chiziq",
-        "Gorizontalga nisbatan tik chiziq"
+        "Gorizontalga nisbatan tik chiziq",
+        "Narsa yoki tasvirning bir-biriga o`xshamasligi"
       ]
     },
     {
@@ -2723,10 +2723,10 @@
       "savol": "«Ufq» chizig`inima?",
       "javob": "Ko`zdan ketgan to`g`ri chiziq",
       "variantlar": [
-        "Ko`zdan ketgan to`g`ri chiziq",
-        "Yuqoridan o`tuvchi chiziq",
+        "Tugallanmagan chiziq",
         "Qisqarish chizig`i",
-        "Tugallanmagan chiziq"
+        "Ko`zdan ketgan to`g`ri chiziq",
+        "Yuqoridan o`tuvchi chiziq"
       ]
     },
     {
@@ -2735,9 +2735,9 @@
       "javob": "R.Mirtojiyev",
       "variantlar": [
         "R.Mirtojiyev",
-        "B.Boymatov",
+        "R.Abdurashidov",
         "N.Kuttamurodov",
-        "R.Abdurashidov"
+        "B.Boymatov"
       ]
     },
     {
@@ -2745,8 +2745,8 @@
       "savol": "Tasviriy san’atdagi animalist janrda nimalar tasvirlanadi",
       "javob": "Hayvonlarni tasvirlash",
       "variantlar": [
-        "Hayvonlarni tasvirlash",
         "Tabiat manzarasini tasvirlash",
+        "Hayvonlarni tasvirlash",
         "Natyurmortni tasvirlash",
         "Xayoldan tasvirlash"
       ]
@@ -2757,9 +2757,9 @@
       "javob": "Oq, kul rang, qora",
       "variantlar": [
         "Oq, kul rang, qora",
-        "Qizil, sariq, ko’k",
+        "Qora va qizil rang",
         "Binafsha va ko`k rang",
-        "Qora va qizil rang"
+        "Qizil, sariq, ko’k"
       ]
     },
     {
@@ -2767,9 +2767,9 @@
       "savol": "Tasviriy san’atning batal janrida nimalar tasvirlanadi.",
       "javob": "Jang manzarasi tasviri",
       "variantlar": [
+        "Hayvonlarni tasvirlash",
         "Jang manzarasi tasviri",
         "Portret janrini tasvirlash",
-        "Hayvonlarni tasvirlash",
         "Manzara tasvirlash"
       ]
     },
@@ -2778,10 +2778,10 @@
       "savol": "Binoni ichki qismi qanday ibora bilan ataladi?",
       "javob": "Interer",
       "variantlar": [
-        "Interer",
-        "Ob`ekt",
+        "Fasad",
         "Ekstrer",
-        "Fasad"
+        "Interer",
+        "Ob`ekt"
       ]
     },
     {
@@ -2789,10 +2789,10 @@
       "savol": "Biron tasvirdan nusxa olishda nimadan foydalaniladi?",
       "javob": "Kalka",
       "variantlar": [
-        "Kalka",
         "Vatman",
-        "Qog`oz",
-        "Karton"
+        "Kalka",
+        "Karton",
+        "Qog`oz"
       ]
     },
     {
@@ -2800,10 +2800,10 @@
       "savol": "Garmoniya – bu:",
       "javob": "Badiiy asar mutanosibligi",
       "variantlar": [
-        "Badiiy asar mutanosibligi",
         "Asarda bir xillik rang",
         "Ranglarning har xilligi",
-        "Rang tasvirda bir payt"
+        "Rang tasvirda bir payt",
+        "Badiiy asar mutanosibligi"
       ]
     },
     {
@@ -2812,8 +2812,8 @@
       "javob": "Frantsuzcha «Gris» - kul rang degan ma`noni bildiradi",
       "variantlar": [
         "Frantsuzcha «Gris» - kul rang degan ma`noni bildiradi",
-        "Akvarelda ishlash degan ma`noni bildiradi",
         "Rang tasvir degan ma`noni bildiradi",
+        "Akvarelda ishlash degan ma`noni bildiradi",
         "Guash’ bo`yoqda degan ma`noni bildiradi"
       ]
     },
@@ -2822,10 +2822,10 @@
       "savol": "Drapirovka - bu:",
       "javob": "Fan uchun mato",
       "variantlar": [
+        "Bo`yoqda ishlash usuli",
         "Fan uchun mato",
-        "Rang tasvir janri",
         "Janrlarning bir turi",
-        "Bo`yoqda ishlash usuli"
+        "Rang tasvir janri"
       ]
     },
     {
@@ -2833,10 +2833,10 @@
       "savol": "“Yetti go`zal” devoriy sur`atni muallifi kim?",
       "javob": "Chingiz Axmarov",
       "variantlar": [
-        "Chingiz Axmarov",
-        "Ro`zi Choriyev",
+        "M.Nabiyev",
         "Javlon Umarbekov",
-        "M.Nabiyev"
+        "Chingiz Axmarov",
+        "Ro`zi Choriyev"
       ]
     },
     {
@@ -2846,8 +2846,8 @@
       "variantlar": [
         "Fransuzcha",
         "Lotincha",
-        "Grekcha",
-        "Nemischa"
+        "Nemischa",
+        "Grekcha"
       ]
     },
     {
@@ -2855,9 +2855,9 @@
       "savol": "Fransuzcha jonsiz tabiat degan ma’noni anglatadi degan iboralar qaysi janrga tegishli?",
       "javob": "Natyurmort",
       "variantlar": [
-        "Natyurmort",
-        "Animal",
         "Tarixiy",
+        "Animal",
+        "Natyurmort",
         "Maishiy"
       ]
     },
@@ -2867,9 +2867,9 @@
       "javob": "Skelet",
       "variantlar": [
         "Skelet",
+        "Tovon",
         "Chanoq",
-        "Taz",
-        "Tovon"
+        "Taz"
       ]
     },
     {
@@ -2877,10 +2877,10 @@
       "savol": "Qisqa muddatli tasvir ishlaganda, qalamning qaysi turidan foydalaniladi",
       "javob": "M 4 qalamda",
       "variantlar": [
-        "M 4 qalamda",
-        "Ko`mir qalamda",
         "Moy bo`yoqda",
-        "Pero tushda"
+        "Pero tushda",
+        "M 4 qalamda",
+        "Ko`mir qalamda"
       ]
     },
     {
@@ -2888,9 +2888,9 @@
       "savol": "Kolorit so`zining ma’nosi nima?",
       "javob": "Bir xil ranglar majmuasi",
       "variantlar": [
+        "Moy bo`yoqning bir turi",
         "Bir xil ranglar majmuasi",
         "Suyultirgich bilan ishlash",
-        "Moy bo`yoqning bir turi",
         "Grizayl – bir xil rangda ishlash"
       ]
     },
@@ -2899,10 +2899,10 @@
       "savol": "Komponovka – bu:",
       "javob": "Tasvirni formatga nisbatan joylashtirish",
       "variantlar": [
-        "Tasvirni formatga nisbatan joylashtirish",
-        "Qisqa muddatlarda qalamtasvir",
         "Sanginada ishlanadigan tasvir",
-        "Buyum nisbatlarining yig`indisi"
+        "Qisqa muddatlarda qalamtasvir",
+        "Buyum nisbatlarining yig`indisi",
+        "Tasvirni formatga nisbatan joylashtirish"
       ]
     },
     {
@@ -2911,8 +2911,8 @@
       "javob": "Qarama qarshi",
       "variantlar": [
         "Qarama qarshi",
-        "Bir rangning turi",
         "Bir biriga qarama-qarshi ranglar",
+        "Bir rangning turi",
         "Moy bo`yoqda ishlash"
       ]
     },
@@ -2921,10 +2921,10 @@
       "savol": "Qoralama deb nimaga aytiladi?",
       "javob": "Yakuniga yetmagan",
       "variantlar": [
-        "Yakuniga yetmagan",
+        "Konstruktsiya",
         "Yakunlangan ish",
         "Jo’ylashtirish",
-        "Konstruktsiya"
+        "Yakuniga yetmagan"
       ]
     },
     {
@@ -2932,10 +2932,10 @@
       "savol": "Ko`zni tasvirlashda qanday geometrik shakl asos qilib olinadi.?",
       "javob": "Konus",
       "variantlar": [
-        "Konus",
-        "Kub",
         "Piramida",
-        "Shar"
+        "Konus",
+        "Shar",
+        "Kub"
       ]
     },
     {
@@ -2944,8 +2944,8 @@
       "javob": "Mal’bert",
       "variantlar": [
         "Mal’bert",
-        "Stanok",
         "O`quv doska",
+        "Stanok",
         "O`quv stoli"
       ]
     },
@@ -2954,10 +2954,10 @@
       "savol": "Restavratsiya –bu:",
       "javob": "Ta`mirlash",
       "variantlar": [
-        "Ta`mirlash",
         "Tuzatuvchi",
         "Buzuvchi",
-        "Pardozlash"
+        "Pardozlash",
+        "Ta`mirlash"
       ]
     },
     {
@@ -2966,9 +2966,9 @@
       "javob": "Qo`yilmani o`ziga qarab tasvirlash",
       "variantlar": [
         "Qo`yilmani o`ziga qarab tasvirlash",
+        "Kompozitsiya tuzish ishlamoq",
         "Miniatyurani ranglarda ishlash",
-        "Qo`yilmalarni xayoldan ishlash",
-        "Kompozitsiya tuzish ishlamoq"
+        "Qo`yilmalarni xayoldan ishlash"
       ]
     },
     {
@@ -2976,10 +2976,10 @@
       "savol": "Kundalik voqea-hodisalar tasvirlangan asar Tasviriy san’atning qaysi janri",
       "javob": "Maishiy janr",
       "variantlar": [
-        "Maishiy janr",
-        "Marina janri",
+        "Batal janri",
         "Manzara janri",
-        "Batal janri"
+        "Marina janri",
+        "Maishiy janr"
       ]
     },
     {
@@ -2987,10 +2987,10 @@
       "savol": "Narsa shaklini qoramtir dog` sifatida tasvirlash nima deyiladi?",
       "javob": "Siluet",
       "variantlar": [
-        "Siluet",
-        "Grizayl",
         "Kolorit",
-        "Mozaika"
+        "Mozaika",
+        "Grizayl",
+        "Siluet"
       ]
     },
     {
@@ -2998,10 +2998,10 @@
       "savol": "Tasviriy san`atda ishlatilmaydigan anjom?",
       "javob": "Chizg’ich",
       "variantlar": [
-        "Chizg’ich",
-        "Torshonka",
+        "Mo’yqalam",
         "Palitralar",
-        "Mo’yqalam"
+        "Torshonka",
+        "Chizg’ich"
       ]
     },
     {
@@ -3009,10 +3009,10 @@
       "savol": "Tasviriy san`atda buyuk xizmatlari bilan nom qoldirgan mashxur san`at xomiysi kim?",
       "javob": "T.Tretyakov",
       "variantlar": [
-        "T.Tretyakov",
-        "V.T.Perov",
+        "B.Latinin",
         "V.Stasov",
-        "B.Latinin"
+        "T.Tretyakov",
+        "V.T.Perov"
       ]
     },
     {
@@ -3032,8 +3032,8 @@
       "javob": "Manzara",
       "variantlar": [
         "Manzara",
-        "Portret",
         "Grafika",
+        "Portret",
         "Animal"
       ]
     },
@@ -3042,10 +3042,10 @@
       "savol": "Plener – bu :",
       "javob": "Ochiq havo ishlash",
       "variantlar": [
-        "Ochiq havo ishlash",
         "Manzara tasviri",
         "Natyurmort tasviri",
-        "Odam tasviri"
+        "Odam tasviri",
+        "Ochiq havo ishlash"
       ]
     },
     {
@@ -3053,10 +3053,10 @@
       "savol": "Tasviriy san’atni asosi nima?",
       "javob": "Qalamtasvir",
       "variantlar": [
-        "Qalamtasvir",
         "Rangtasvir",
-        "Minyatura",
-        "Manzara"
+        "Qalamtasvir",
+        "Manzara",
+        "Minyatura"
       ]
     },
     {
@@ -3065,9 +3065,9 @@
       "javob": "Portret",
       "variantlar": [
         "Portret",
+        "Xayvon tasviri",
         "Jonsiz buyumni ko`rish",
-        "Gips buyumlar tasviri",
-        "Xayvon tasviri"
+        "Gips buyumlar tasviri"
       ]
     },
     {
@@ -3075,10 +3075,10 @@
       "savol": "Shaxsiy soya – bu :",
       "javob": "Predmetning o`zidagi soya",
       "variantlar": [
-        "Predmetning o`zidagi soya",
         "Tushuvchi soya",
         "Suniy soya",
-        "Yarim soya"
+        "Yarim soya",
+        "Predmetning o`zidagi soya"
       ]
     },
     {
@@ -3086,9 +3086,9 @@
       "savol": "Eskiz - bu:",
       "javob": "Asar mazmunini xomaki chizmasi",
       "variantlar": [
-        "Asar mazmunini xomaki chizmasi",
         "Yakunlangan ish",
         "Mavzu asosida ish",
+        "Asar mazmunini xomaki chizmasi",
         "Tugallangan ish"
       ]
     },
@@ -3097,10 +3097,10 @@
       "savol": "Yumshoq, qizg`ish, jigarrang qalam nima?",
       "javob": "Sangina",
       "variantlar": [
-        "Sangina",
-        "Pastel",
         "Sous",
-        "Grafit"
+        "Pastel",
+        "Grafit",
+        "Sangina"
       ]
     },
     {
@@ -3108,10 +3108,10 @@
       "savol": "Sodda geometrik shakllarga qanday shakllar kiradi?",
       "javob": "Piramida, kub, shar, konus",
       "variantlar": [
-        "Piramida, kub, shar, konus",
-        "Ko`za, kapitel’, rozetka",
+        "Shar, romb, trapetsiya",
         "To`rtburchak, trapetsiya",
-        "Shar, romb, trapetsiya"
+        "Ko`za, kapitel’, rozetka",
+        "Piramida, kub, shar, konus"
       ]
     },
     {
@@ -3119,10 +3119,10 @@
       "savol": "Qalamtasvirda qanday turlari bor?",
       "javob": "Chiziqli, yorug`-soyali",
       "variantlar": [
-        "Chiziqli, yorug`-soyali",
         "Grizayl, mahobatli",
         "Grafik, shtrixli",
-        "Tush perolar bilan"
+        "Tush perolar bilan",
+        "Chiziqli, yorug`-soyali"
       ]
     },
     {
@@ -3131,9 +3131,9 @@
       "javob": "Fransiya",
       "variantlar": [
         "Fransiya",
+        "Italiya",
         "Gollandiya",
-        "Germaniya",
-        "Italiya"
+        "Germaniya"
       ]
     },
     {
@@ -3142,9 +3142,9 @@
       "javob": "Qo’lyozmaga ishlangan rasmlar",
       "variantlar": [
         "Qo’lyozmaga ishlangan rasmlar",
+        "Yodgorliklarni tasvirlash",
         "Badiiy liboslarga yo’nalish",
-        "Biror tarixiy voqeaga ishlash",
-        "Yodgorliklarni tasvirlash"
+        "Biror tarixiy voqeaga ishlash"
       ]
     },
     {
@@ -3152,10 +3152,10 @@
       "savol": "O’zbek rassomlaridan kimning avtoportreti «Ufisi» galereyasiga tuhfa etildi?",
       "javob": "A.Abdullayev",
       "variantlar": [
-        "A.Abdullayev",
-        "B.Jalolov",
         "R.Choriyev",
-        "S.Abdullayev"
+        "B.Jalolov",
+        "S.Abdullayev",
+        "A.Abdullayev"
       ]
     },
     {
@@ -3163,10 +3163,10 @@
       "savol": "«Pompeyning so’nggi kuni» asarini muallifi kim?",
       "javob": "K.P.Bryullov",
       "variantlar": [
-        "K.P.Bryullov",
+        "V.Kaydalov",
         "U.Tansikboyev",
         "Leonardo da Vinchi",
-        "V.Kaydalov"
+        "K.P.Bryullov"
       ]
     },
     {
@@ -3174,9 +3174,9 @@
       "savol": "Leonardo da Vinchi «Djakonda» asarini qanday materialga ishlagan?",
       "javob": "Yog’ochga",
       "variantlar": [
-        "Yog’ochga",
-        "Xolstga",
         "Qog’ozga",
+        "Xolstga",
+        "Yog’ochga",
         "Temirga"
       ]
     },
@@ -3186,9 +3186,9 @@
       "javob": "Bir mavzu asosida ishlangan uch asar",
       "variantlar": [
         "Bir mavzu asosida ishlangan uch asar",
-        "Tarixiy janrda ishlangan rangtasvir asar",
         "Ko’p figurali rangtasvir asar",
-        "Uch faslni aks ettirgan manzara asar"
+        "Uch faslni aks ettirgan manzara asar",
+        "Tarixiy janrda ishlangan rangtasvir asar"
       ]
     },
     {
@@ -3196,10 +3196,10 @@
       "savol": "Shayboniyxon portreti qaysi musavvir tomonidan ishlangan?",
       "javob": "K.Bexzod",
       "variantlar": [
-        "K.Bexzod",
         "M.Muzaxxib",
+        "M.Nabiev",
         "Ch.Axmarov",
-        "M.Nabiev"
+        "K.Bexzod"
       ]
     },
     {
@@ -3207,8 +3207,8 @@
       "savol": "Alisher Navoiyning portreti (etalon sifatida) kim tomonidan yaratilgan?",
       "javob": "V.Kaydalov",
       "variantlar": [
-        "V.Kaydalov",
         "M.Muzaxxib",
+        "V.Kaydalov",
         "K.Bexzod",
         "A.Abdullayev"
       ]
@@ -3219,9 +3219,9 @@
       "javob": "R.Ahmedov.",
       "variantlar": [
         "R.Ahmedov.",
-        "R.Choriev",
         "B .Jololov",
-        "YU.Elizarov"
+        "YU.Elizarov",
+        "R.Choriev"
       ]
     },
     {
@@ -3229,10 +3229,10 @@
       "savol": "Blik nima",
       "javob": "Tasvirlanayotgan obyektdagi eng yorqin joy",
       "variantlar": [
-        "Tasvirlanayotgan obyektdagi eng yorqin joy",
-        "Obyektni o’zidan tushayotgan soya",
         "Shaxsiy soya",
-        "Orqa fon"
+        "Orqa fon",
+        "Obyektni o’zidan tushayotgan soya",
+        "Tasvirlanayotgan obyektdagi eng yorqin joy"
       ]
     },
     {
@@ -3251,10 +3251,10 @@
       "savol": "Yumshoq qalam qaysi",
       "javob": "M",
       "variantlar": [
+        "Y",
         "M",
         "T",
-        "K",
-        "Y"
+        "K"
       ]
     },
     {
@@ -3262,10 +3262,10 @@
       "savol": "Proporsiya nima?",
       "javob": "Lotincha o’zaro mutanosiblik",
       "variantlar": [
-        "Lotincha o’zaro mutanosiblik",
         "Komponiere fransuzcha joylamok",
-        "Qora dog’li holatda ko’rish",
-        "Qisqarishlarni hisobga olib chizilgan"
+        "Qisqarishlarni hisobga olib chizilgan",
+        "Lotincha o’zaro mutanosiblik",
+        "Qora dog’li holatda ko’rish"
       ]
     },
     {
@@ -3273,10 +3273,10 @@
       "savol": "Uyg’onish davri rassomlik maktablarida nechta o’quvchi taxsil olgan?",
       "javob": "4-6",
       "variantlar": [
-        "4-6",
         "5-7",
-        "2-3",
-        "4-"
+        "4-",
+        "4-6",
+        "2-3"
       ]
     }
   ],
@@ -3287,10 +3287,10 @@
       "savol": "O’zbekiston tabiati manzaralari asosan qaysi ranglar turkumida ifodalanadi?",
       "javob": "Issiq ranglar",
       "variantlar": [
+        "Aralash ranglar",
         "Issiq ranglar",
-        "Sovuq ranglar",
         "Neytral ranglar",
-        "Aralash ranglar"
+        "Sovuq ranglar"
       ],
       "manba": "-516]"
     },
@@ -3299,10 +3299,10 @@
       "savol": "Kamalakdagi ranglar nechta?",
       "javob": "7 ta",
       "variantlar": [
-        "7 ta",
-        "5 ta",
         "9 ta",
-        "2 ta"
+        "2 ta",
+        "7 ta",
+        "5 ta"
       ],
       "manba": "-521]"
     },
@@ -3311,10 +3311,10 @@
       "savol": "Xolst nima?",
       "javob": "Moybo’yoq uchun maxsus mato",
       "variantlar": [
-        "Moybo’yoq uchun maxsus mato",
+        "Tempera bo’yog’ uchun maxsus mato",
         "Akvarel bo’yog’i uchun maxsus mato",
         "Guash bo’yog’i uchun maxsus mato",
-        "Tempera bo’yog’ uchun maxsus mato"
+        "Moybo’yoq uchun maxsus mato"
       ],
       "manba": "-526]"
     },
@@ -3323,10 +3323,10 @@
       "savol": "Akril bo‘yog‘ining moybo’yoqdan farqi nimada?",
       "javob": "Qo‘yiq va suvda eruvchan, xususiyatli",
       "variantlar": [
-        "Qo‘yiq va suvda eruvchan, xususiyatli",
         "Suvda erimaydi, suyuq ko‘rinishga ega",
+        "Suvda va moyda eriydigan yaltiroq",
         "Qo‘yiq tarkibi moydan iborat",
-        "Suvda va moyda eriydigan yaltiroq"
+        "Qo‘yiq va suvda eruvchan, xususiyatli"
       ],
       "manba": "-531]"
     },
@@ -3335,10 +3335,10 @@
       "savol": "Jigarrang rang qaysi bo’yoqlardan hosil bo’ladi?",
       "javob": "Qizil va yashil",
       "variantlar": [
-        "Qizil va yashil",
         "Sariqva binafsha",
-        "To’q sariq va binafsha",
-        "To’q jigarrang va binafsha"
+        "To’q jigarrang va binafsha",
+        "Qizil va yashil",
+        "To’q sariq va binafsha"
       ],
       "manba": "-536]"
     },
@@ -3347,10 +3347,10 @@
       "savol": "Akril bo’yog’i necha daqiqada quriydi?",
       "javob": "10 daqiqa",
       "variantlar": [
-        "10 daqiqa",
+        "30 daqiqa",
         "20 daqiqa",
-        "15 daqiqa",
-        "30 daqiqa"
+        "10 daqiqa",
+        "15 daqiqa"
       ],
       "manba": "-541]"
     },
@@ -3359,10 +3359,10 @@
       "savol": "Akvarel  bo’yog’ining o’ziga xos xususiyati nimada?",
       "javob": "Suvli bo‘yoq, hidsiz, ustma-ust qo‘yish orqali ranglar payo qilinadi, qurigandan keyin ham suvda eriydi",
       "variantlar": [
-        "Suvli bo‘yoq, hidsiz, ustma-ust qo‘yish orqali ranglar payo qilinadi, qurigandan keyin ham suvda eriydi",
-        "Suvda suyultiriladi, yelimli bo‘yoq. Qurigandan keyin rangi ocharish xususiyatiga ega, qurigandan keyin namlikda eriydi",
         "Suvda erimaydi, o‘ziga xos hidli, maxsus suyultirgichlar bilan ishlatiladi, qurigandan so‘ng to‘qlashish xususiyatiga ega",
-        "Yelimli bo‘yoq, suyultirgich sifatida suvdan foydalaniladi, tez qotadi, qurigandan keyin suvda erimaydi"
+        "Suvli bo‘yoq, hidsiz, ustma-ust qo‘yish orqali ranglar payo qilinadi, qurigandan keyin ham suvda eriydi",
+        "Yelimli bo‘yoq, suyultirgich sifatida suvdan foydalaniladi, tez qotadi, qurigandan keyin suvda erimaydi",
+        "Suvda suyultiriladi, yelimli bo‘yoq. Qurigandan keyin rangi ocharish xususiyatiga ega, qurigandan keyin namlikda eriydi"
       ],
       "manba": "-546]"
     },
@@ -3372,8 +3372,8 @@
       "javob": "Qo’shilmaydi",
       "variantlar": [
         "Qo’shilmaydi",
-        "Qo’shilaoladi",
         "Neytral bo’ladi",
+        "Qo’shilaoladi",
         "Muvofiqlashadi"
       ],
       "manba": "-551]"
@@ -3383,10 +3383,10 @@
       "savol": "Akril va akvarel bo’yog’i bir-biriga qo’shiladimi?",
       "javob": "Qo’shilmaydi",
       "variantlar": [
-        "Qo’shilmaydi",
-        "Mufofiqlashadi",
         "Netral bo’ladi",
-        "Qo’shilaoladi"
+        "Qo’shilaoladi",
+        "Mufofiqlashadi",
+        "Qo’shilmaydi"
       ],
       "manba": "-556]"
     },
@@ -3396,9 +3396,9 @@
       "javob": "Rangtasvir",
       "variantlar": [
         "Rangtasvir",
-        "Qalamtasvir",
         "Amaliy san’at",
-        "Arxitektura"
+        "Arxitektura",
+        "Qalamtasvir"
       ],
       "manba": "-561]"
     },
@@ -3407,10 +3407,10 @@
       "savol": "Rangtasvir xaqida 3 kitob muallifi kim?",
       "javob": "L.da Vinchi",
       "variantlar": [
-        "L.da Vinchi",
         "Rafael Santi",
-        "Mikelanjelo",
-        "P.Rubens"
+        "P.Rubens",
+        "L.da Vinchi",
+        "Mikelanjelo"
       ],
       "manba": "-566]"
     },
@@ -3420,9 +3420,9 @@
       "javob": "15 – 30 – 60 daqiqa",
       "variantlar": [
         "15 – 30 – 60 daqiqa",
-        "10 – 60 – 62 daqiqa",
+        "20 – 30 – 70 daqiqa",
         "12 – 55 – 75 daqiqa",
-        "20 – 30 – 70 daqiqa"
+        "10 – 60 – 62 daqiqa"
       ],
       "manba": "-571]"
     },
@@ -3432,9 +3432,9 @@
       "javob": "Tarshon",
       "variantlar": [
         "Tarshon",
+        "Pergam",
         "Karton",
-        "Vatman",
-        "Pergam"
+        "Vatman"
       ],
       "manba": "-576]"
     },
@@ -3443,10 +3443,10 @@
       "savol": "Rasm chizishda ko‘zgu nima uchun ishlatiladi?",
       "javob": "Xatolarni ko‘rish uchun",
       "variantlar": [
-        "Xatolarni ko‘rish uchun",
-        "Umumlashtirish uchun",
         "Uyg‘unlashtirish uchun",
-        "Ko‘zgu ishlatilmaydi"
+        "Umumlashtirish uchun",
+        "Ko‘zgu ishlatilmaydi",
+        "Xatolarni ko‘rish uchun"
       ],
       "manba": "-581]"
     },
@@ -3455,8 +3455,8 @@
       "savol": "Tempera tasviriy san’atning qaysi turida ishlatiladi?",
       "javob": "Rangtasvirda",
       "variantlar": [
-        "Rangtasvirda",
         "Haykaltaroshlik",
+        "Rangtasvirda",
         "Me’morchilik",
         "Grafika"
       ],
@@ -3467,10 +3467,10 @@
       "savol": "Proporsiya so‘zining ma’nosi?",
       "javob": "Nisbatlar",
       "variantlar": [
-        "Nisbatlar",
         "To‘g‘ri",
-        "Tekislik",
-        "Takrorlash"
+        "Nisbatlar",
+        "Takrorlash",
+        "Tekislik"
       ],
       "manba": "-591]"
     },
@@ -3479,9 +3479,9 @@
       "savol": "“Blik” deganda nimani tushunasiz?",
       "javob": "Eng yorug‘ joy",
       "variantlar": [
-        "Eng yorug‘ joy",
         "Yorug‘ joylar",
         "Orqa plan",
+        "Eng yorug‘ joy",
         "Qisqa chiziqlar"
       ],
       "manba": "-596]"
@@ -3491,10 +3491,10 @@
       "savol": "Buyumlarni tasvirlashda sinch (kar-kaz) usulini joriy etgan rassom-pedagog kim?",
       "javob": "Chistyakov",
       "variantlar": [
-        "Chistyakov",
-        "L.da.Vinchi",
+        "L.B.Alberti",
         "A. Ashbe",
-        "L.B.Alberti"
+        "Chistyakov",
+        "L.da.Vinchi"
       ],
       "manba": "-601]"
     },
@@ -3503,10 +3503,10 @@
       "savol": "Ko‘zni kesib o‘tuvchi chiziq qayerdan o‘tadi?",
       "javob": "Ko‘zni o‘rtasida",
       "variantlar": [
-        "Ko‘zni o‘rtasida",
         "Ko‘zni ustida",
+        "Qovoq ustida",
         "Ko‘zni pastida",
-        "Qovoq ustida"
+        "Ko‘zni o‘rtasida"
       ],
       "manba": "-606]"
     },
@@ -3515,10 +3515,10 @@
       "savol": "Politra nima?",
       "javob": "Ranglar aralshtiriladigan maxsus moslama",
       "variantlar": [
-        "Ranglar aralshtiriladigan maxsus moslama",
         "Ranglar qo’yiltiriladigan maxsus moslama",
         "Qalamtasvir uchun maxsus moslama",
-        "O’chirgichlar uchun maxsus moslama"
+        "O’chirgichlar uchun maxsus moslama",
+        "Ranglar aralshtiriladigan maxsus moslama"
       ],
       "manba": "-611]"
     },
@@ -3527,10 +3527,10 @@
       "savol": "Mastixindan qaysi san’at turida ishlatiladi?",
       "javob": "Rangtasvirda",
       "variantlar": [
-        "Rangtasvirda",
-        "Qalamtasvirda",
         "Haykaltaroshlik",
-        "Amaliy san’atda"
+        "Qalamtasvirda",
+        "Amaliy san’atda",
+        "Rangtasvirda"
       ],
       "manba": "-616]"
     },
@@ -3539,10 +3539,10 @@
       "savol": "Odamning anatomik tuzulishi nima?",
       "javob": "Tana tuzilish",
       "variantlar": [
-        "Tana tuzilish",
         "Tashqi tuzilish",
-        "Harakat holati",
-        "Harakatsiz holat"
+        "Harakatsiz holat",
+        "Tana tuzilish",
+        "Harakat holati"
       ],
       "manba": "-621]"
     },
@@ -3551,10 +3551,10 @@
       "savol": "Havo perespektivasi nima?",
       "javob": "Orqa plandagi narsalar ranglarning xiralashib borishi",
       "variantlar": [
-        "Orqa plandagi narsalar ranglarning xiralashib borishi",
-        "Buyumlarning nisbatini aniqlash havo perspektivasidir",
         "Ketma-ketlik asosida tasvirlash havo perspektivasidir",
-        "Ranglarning uyg’unligi havo perspektivasidir"
+        "Buyumlarning nisbatini aniqlash havo perspektivasidir",
+        "Ranglarning uyg’unligi havo perspektivasidir",
+        "Orqa plandagi narsalar ranglarning xiralashib borishi"
       ],
       "manba": "-626]"
     },
@@ -3563,9 +3563,9 @@
       "savol": "“David” haykali avtori kim?",
       "javob": "M.Buanarotti",
       "variantlar": [
+        "A.Dyurer",
         "M.Buanarotti",
         "L. da.Vinchi",
-        "A.Dyurer",
         "A.Verokkio"
       ],
       "manba": "-631]"
@@ -3575,9 +3575,9 @@
       "savol": "Qanday ranglar qo‘shiluvidan qora rang hosil bo‘ladi?",
       "javob": "Qizil, sariq, havorang",
       "variantlar": [
-        "Qizil, sariq, havorang",
         "Ko‘k, yashil, sariq",
         "Havorang, qizil, ko’k",
+        "Qizil, sariq, havorang",
         "Jigarrang, yashil, ko’k"
       ],
       "manba": "-636]"
@@ -3587,10 +3587,10 @@
       "savol": "Rangtasvir-orqa fonida qanday rngdagi matolar bo‘ladi?",
       "javob": "Barchaa turdagi va tusdagi ranglar",
       "variantlar": [
-        "Barchaa turdagi va tusdagi ranglar",
         "Sariq, qizil, oq hamda ko‘k ranglar",
+        "Yashil, ko‘k, qora va qizil ranglar",
         "Ko‘k, qora, kulrang va yashil ranglar",
-        "Yashil, ko‘k, qora va qizil ranglar"
+        "Barchaa turdagi va tusdagi ranglar"
       ],
       "manba": "-641]"
     },
@@ -3599,10 +3599,10 @@
       "savol": "Soyalar naturaning qaysi tomonida bo‘ladi?",
       "javob": "Yorug‘ga qarama-qarshi",
       "variantlar": [
-        "Yorug‘ga qarama-qarshi",
         "Old tomonida bo’ladi",
+        "Hamma joylarida bo’ladi",
         "Yorug‘ tomonida bo’ladi",
-        "Hamma joylarida bo’ladi"
+        "Yorug‘ga qarama-qarshi"
       ],
       "manba": "-646]"
     },
@@ -3611,10 +3611,10 @@
       "savol": "Rangtasvir barcha fanlarning asosini tashkil qiladi degan fikrning avtori kim?",
       "javob": "L.daVinchi",
       "variantlar": [
-        "L.daVinchi",
-        "R.Axmedov",
         "Tintoretto",
-        "Rafael Santi"
+        "Rafael Santi",
+        "L.daVinchi",
+        "R.Axmedov"
       ],
       "manba": "-651]"
     },
@@ -3624,9 +3624,9 @@
       "javob": "3,5 ga",
       "variantlar": [
         "3,5 ga",
+        "4,5 ga",
         "5,7 ga",
-        "6,4 ga",
-        "4,5 ga"
+        "6,4 ga"
       ],
       "manba": "-656]"
     },
@@ -3636,8 +3636,8 @@
       "javob": "Ch. Axmarov",
       "variantlar": [
         "Ch. Axmarov",
-        "Sh. Abdullayev",
         "R. Ahmedov",
+        "Sh. Abdullayev",
         "A.Abdullayev"
       ],
       "manba": "-661]"
@@ -3647,10 +3647,10 @@
       "savol": "“Blik” qanday jismlarda aniq ko‘rinadi",
       "javob": "Temir, mis, chinni, sirlangan spol buyumda",
       "variantlar": [
-        "Temir, mis, chinni, sirlangan spol buyumda",
+        "Gipslarda, sirlangan spol buyumlarda",
         "Matolarda, gips modelda, chinni buyumda",
         "Yog‘ochlarda, gips modelda, chinni buyumda",
-        "Gipslarda, sirlangan spol buyumlarda"
+        "Temir, mis, chinni, sirlangan spol buyumda"
       ],
       "manba": "-666]"
     },
@@ -3659,10 +3659,10 @@
       "savol": "Dunyoga mashhur “Ermitaj” muzeyi qaysi shaharda joylashgan?",
       "javob": "Sankt-Peterburg",
       "variantlar": [
-        "Sankt-Peterburg",
         "Rio-de Janeyro",
-        "Nyu-York",
-        "Los-Anjels"
+        "Sankt-Peterburg",
+        "Los-Anjels",
+        "Nyu-York"
       ],
       "manba": "-671]"
     },
@@ -3671,10 +3671,10 @@
       "savol": "Odam qulog‘i qaysi yuz a’zolari profil chiziqlari orasida joylashadi?",
       "javob": "Qosh bilan burun orasida",
       "variantlar": [
-        "Qosh bilan burun orasida",
         "Ko‘z bilan lab orasida",
-        "Iyak bilan burun orasida",
-        "Qosh bilan iyak orasida"
+        "Qosh bilan iyak orasida",
+        "Qosh bilan burun orasida",
+        "Iyak bilan burun orasida"
       ],
       "manba": "-676]"
     },
@@ -3684,8 +3684,8 @@
       "javob": "Davidga",
       "variantlar": [
         "Davidga",
-        "Appalonga",
         "Veneraga",
+        "Appalonga",
         "Geraklga"
       ],
       "manba": "-681]"
@@ -3695,10 +3695,10 @@
       "savol": "Portret nima?",
       "javob": "Odam siymosi tasvirlash",
       "variantlar": [
+        "Uy-ro’zg‘or buyum tasviri",
         "Odam siymosi tasvirlash",
-        "Natyurmortni tasvirlash",
         "Hayvonlar tasvirlash",
-        "Uy-ro’zg‘or buyum tasviri"
+        "Natyurmortni tasvirlash"
       ],
       "manba": "-686]"
     },
@@ -3708,8 +3708,8 @@
       "javob": "Yorug‘likning soya tomonga qaytib tushishi",
       "variantlar": [
         "Yorug‘likning soya tomonga qaytib tushishi",
-        "Yarim soyaning predmetga tushishi refleks",
         "Nimsoyaning  tushishi refleks deyiladi",
+        "Yarim soyaning predmetga tushishi refleks",
         "Predmetdagi yaltiroq joylar  refleks deyiladi"
       ],
       "manba": "-691]"
@@ -3720,8 +3720,8 @@
       "javob": "Soya yorug‘lik reflekslarni aniqlash",
       "variantlar": [
         "Soya yorug‘lik reflekslarni aniqlash",
-        "Naturani yaxshi ko‘rish uchun.",
         "Ranglarni aniq ko‘rish uchun",
+        "Naturani yaxshi ko‘rish uchun.",
         "Soya – yorug‘ajralmasligi uchun"
       ],
       "manba": "-696]"
@@ -3731,10 +3731,10 @@
       "savol": "Natura nima?",
       "javob": "Chizilayotgan jism.",
       "variantlar": [
-        "Chizilayotgan jism.",
-        "Turli hildagi mato",
         "Tekislik yuzasi",
-        "Perespektiv asos"
+        "Chizilayotgan jism.",
+        "Perespektiv asos",
+        "Turli hildagi mato"
       ],
       "manba": "-701]"
     },
@@ -3743,10 +3743,10 @@
       "savol": "Rassom oyna orqali o‘z aksini tasvirlash nima deyiladi?",
       "javob": "Avtoportret",
       "variantlar": [
-        "Avtoportret",
-        "Natyurmort",
+        "Portret",
         "Manzara",
-        "Portret"
+        "Avtoportret",
+        "Natyurmort"
       ],
       "manba": "-706]"
     },
@@ -3755,10 +3755,10 @@
       "savol": "Hajm nima yordamida aniqlanadi?",
       "javob": "Soya yorug‘ yordamida",
       "variantlar": [
-        "Soya yorug‘ yordamida",
         "Perespektiva yordamida",
-        "Shtrix yordamida",
-        "Nisbatni to’g’ri olishda"
+        "Nisbatni to’g’ri olishda",
+        "Soya yorug‘ yordamida",
+        "Shtrix yordamida"
       ],
       "manba": "-711]"
     },
@@ -3767,8 +3767,8 @@
       "savol": "Qo‘yilma chizuvchiga nisbatan necha gradusda ko‘rinishi kerak?",
       "javob": "300da",
       "variantlar": [
-        "300da",
         "900da",
+        "300da",
         "450da",
         "150da"
       ],
@@ -3779,10 +3779,10 @@
       "savol": "Kontur so‘zi qaysi tildan olingan?",
       "javob": "Nemis tilidan",
       "variantlar": [
-        "Nemis tilidan",
+        "Yunon tilidan",
         "Ingliz tilidan",
         "Fransuz tilidan",
-        "Yunon tilidan"
+        "Nemis tilidan"
       ],
       "manba": "-721]"
     },
@@ -3791,9 +3791,9 @@
       "savol": "Yumshoq qalam turlarini toping?",
       "javob": "M.2M.4M.6M",
       "variantlar": [
-        "M.2M.4M.6M",
-        "TM. 2M.2.TS",
         "T.2T.TM.4.TM",
+        "TM. 2M.2.TS",
+        "M.2M.4M.6M",
         "TM.4TM.2T.H"
       ],
       "manba": "-726]"
@@ -3804,9 +3804,9 @@
       "javob": "To’q ko’k",
       "variantlar": [
         "To’q ko’k",
-        "To’q sariq",
+        "To’q qizil",
         "To’q yashil",
-        "To’q qizil"
+        "To’q sariq"
       ],
       "manba": "-731]"
     },
@@ -3815,10 +3815,10 @@
       "savol": "Naturani tushgan soyasi nima deb ataladi?",
       "javob": "Tushuvchi soya",
       "variantlar": [
-        "Tushuvchi soya",
         "Yarim to’q soya",
-        "Shaxsiy to’q soya",
-        "To’q nisbiy soya"
+        "To’q nisbiy soya",
+        "Tushuvchi soya",
+        "Shaxsiy to’q soya"
       ],
       "manba": "-736]"
     },
@@ -3827,9 +3827,9 @@
       "savol": "Animalistik janr qanday janr?",
       "javob": "Hayvonlar tasviri",
       "variantlar": [
-        "Hayvonlar tasviri",
-        "Jang mavzusidagi",
         "Jonsiz predmetlar",
+        "Jang mavzusidagi",
+        "Hayvonlar tasviri",
         "Maishiy hayot"
       ],
       "manba": "-741]"
@@ -3841,8 +3841,8 @@
       "variantlar": [
         "Anatomik tuzilish",
         "Chanoq sistemasi",
-        "Suyak sistemasi",
-        "Tayanch xarakati"
+        "Tayanch xarakati",
+        "Suyak sistemasi"
       ],
       "manba": "-746]"
     },
@@ -3852,9 +3852,9 @@
       "javob": "Xonaning ichki ko’rinishi",
       "variantlar": [
         "Xonaning ichki ko’rinishi",
-        "Shahar tashqi ko‘rinishi",
+        "Binoning tashqi ko’rinishi",
         "Ko‘chaning  ko‘rinishi",
-        "Binoning tashqi ko’rinishi"
+        "Shahar tashqi ko‘rinishi"
       ],
       "manba": "-751]"
     },
@@ -3863,10 +3863,10 @@
       "savol": "Mato yoki tasvir chizilayotgan sath, polotno, qog‘oz yuzasi nima deb ataladi?",
       "javob": "Sur’at tekisligi",
       "variantlar": [
+        "Ko‘rish tekisligi",
         "Sur’at tekisligi",
         "Frontal tekislik",
-        "Kartina tekisligi",
-        "Ko‘rish tekisligi"
+        "Kartina tekisligi"
       ],
       "manba": "-756]"
     },
@@ -3875,10 +3875,10 @@
       "savol": "Konstruktiv tasvir nechanchi bosqichda chiziladi?",
       "javob": "1-bosqichda",
       "variantlar": [
+        "14-bosqichda",
         "1-bosqichda",
         "10-bosqichda",
-        "7-bosqichda",
-        "14-bosqichda"
+        "7-bosqichda"
       ],
       "manba": "-761]"
     },
@@ -3887,10 +3887,10 @@
       "savol": "Qoralama nimani o‘rgatadi?",
       "javob": "Ko‘zda chamalashni",
       "variantlar": [
-        "Ko‘zda chamalashni",
-        "Shtrixlarni tuslashni",
         "Ranglarni tuslashni",
-        "Ranglarni turlarini"
+        "Shtrixlarni tuslashni",
+        "Ranglarni turlarini",
+        "Ko‘zda chamalashni"
       ],
       "manba": "-766]"
     },
@@ -3911,10 +3911,10 @@
       "savol": "O‘q chizig‘i nima?",
       "javob": "Tasvirlarni teng 2 ga bo‘luvchi chiziq",
       "variantlar": [
-        "Tasvirlarni teng 2 ga bo‘luvchi chiziq",
-        "Yordamchi chiziq, qo’shimcha chiziq",
         "Shaklni belgilovchi qo’shimcha chiziq",
-        "Shakl qurishda yordamchi chiziq"
+        "Shakl qurishda yordamchi chiziq",
+        "Tasvirlarni teng 2 ga bo‘luvchi chiziq",
+        "Yordamchi chiziq, qo’shimcha chiziq"
       ],
       "manba": "-776]"
     },
@@ -3924,9 +3924,9 @@
       "javob": "Tugatilmagan ish",
       "variantlar": [
         "Tugatilmagan ish",
-        "Tugallangan ish",
         "Yarim tugallangan",
-        "Mukammal ish"
+        "Mukammal ish",
+        "Tugallangan ish"
       ],
       "manba": "-781]"
     },
@@ -3936,9 +3936,9 @@
       "javob": "Gipsdan",
       "variantlar": [
         "Gipsdan",
+        "Loydan",
         "Toshdan",
-        "Yopg‘och",
-        "Loydan"
+        "Yopg‘och"
       ],
       "manba": "-786]"
     },
@@ -3947,10 +3947,10 @@
       "savol": "Perspektivaga oid tushunchalar qatorini toping?",
       "javob": "Qisqarish, havo, chiziqli",
       "variantlar": [
-        "Qisqarish, havo, chiziqli",
         "Tekislik, ko‘rish maydoni",
+        "Qisqarish, koordinata",
         "Harakat, plastika, nisbat",
-        "Qisqarish, koordinata"
+        "Qisqarish, havo, chiziqli"
       ],
       "manba": "-791]"
     },
@@ -3959,10 +3959,10 @@
       "savol": "Yarim soya nima?",
       "javob": "Yorug‘likdan soya ga o‘tish joyi",
       "variantlar": [
-        "Yorug‘likdan soya ga o‘tish joyi",
-        "Tushuvchi soya va yorug’lik joyi",
         "Refleks, soya va yorug’lik joyi",
-        "Soyaning boshlanishi, yarim soya"
+        "Yorug‘likdan soya ga o‘tish joyi",
+        "Soyaning boshlanishi, yarim soya",
+        "Tushuvchi soya va yorug’lik joyi"
       ],
       "manba": "-796]"
     },
@@ -3971,10 +3971,10 @@
       "savol": "Profil chizig’i nima?",
       "javob": "Peshona o‘rtasidan, qanshar,lab burun va og’iz o‘rtasidan o‘tuvchi chiziq",
       "variantlar": [
-        "Peshona o‘rtasidan, qanshar,lab burun va og’iz o‘rtasidan o‘tuvchi chiziq",
+        "Yelka, bo‘yin qanshardan og’iz o‘rtasidan o‘tadigan to’g’ri chiziqlar",
         "Bosh, yuz, burun peshlaridan va og’iz o‘rtasidan o‘tadigan to’g’ri chiziq",
         "Qosh, burun, iyak, yanoq, yuqori jag’ustidan o‘tadigan o’tadigan chiziq",
-        "Yelka, bo‘yin qanshardan og’iz o‘rtasidan o‘tadigan to’g’ri chiziqlar"
+        "Peshona o‘rtasidan, qanshar,lab burun va og’iz o‘rtasidan o‘tuvchi chiziq"
       ],
       "manba": "-801]"
     },
@@ -3983,9 +3983,9 @@
       "savol": "Rang tusi nima?",
       "javob": "Rangning turlanishi",
       "variantlar": [
+        "Eng yorug‘ joy rang",
         "Rangning turlanishi",
         "Buyum nisbatlari",
-        "Eng yorug‘ joy rang",
         "Ranglar almashishi"
       ],
       "manba": "-806]"
@@ -3995,10 +3995,10 @@
       "savol": "Rel’ef necha xil bo‘ladi?",
       "javob": "Ikki turli",
       "variantlar": [
+        "Yetti turli",
         "Ikki turli",
-        "Besh turli",
         "O’n turli",
-        "Yetti turli"
+        "Besh turli"
       ],
       "manba": "-811]"
     },
@@ -4007,9 +4007,9 @@
       "savol": "Moybo’yoqda ishlangan ish qalamtasvirga oidmi, yoki rangtasvirga?",
       "javob": "Rangtasvirga oid",
       "variantlar": [
-        "Rangtasvirga oid",
-        "Grafikaga oid",
         "Qalamtasvirga oid",
+        "Grafikaga oid",
+        "Rangtasvirga oid",
         "Dizynga oid"
       ],
       "manba": "-816]"
@@ -4019,10 +4019,10 @@
       "savol": "Odam skeleti asosan necha bo‘lakga bo‘linadi?",
       "javob": "Uch bo‘lakga",
       "variantlar": [
-        "Uch bo‘lakga",
         "Bo‘linmaydi",
-        "Besh bo‘lakga",
-        "Yetti bo‘lakga"
+        "Yetti bo‘lakga",
+        "Uch bo‘lakga",
+        "Besh bo‘lakga"
       ],
       "manba": "-821]"
     },
@@ -4031,10 +4031,10 @@
       "savol": "Triptix nima?",
       "javob": "Bir mavzudagi uch bo‘lagidan iborat san’at asari",
       "variantlar": [
-        "Bir mavzudagi uch bo‘lagidan iborat san’at asari",
         "Uchta  rassom tomonidan yaratilgan rassom asari",
-        "Uchta haykaltarosh tomonidan yaratilgan san’ati",
-        "Uch bo‘ladan iborat san’at asari ko’rinishi"
+        "Bir mavzudagi uch bo‘lagidan iborat san’at asari",
+        "Uch bo‘ladan iborat san’at asari ko’rinishi",
+        "Uchta haykaltarosh tomonidan yaratilgan san’ati"
       ],
       "manba": "-826]"
     },
@@ -4043,10 +4043,10 @@
       "savol": "Qanday holatda silindrning yuqori qismi to‘g‘ri chiziqda bo‘ladi?",
       "javob": "Ufq chizig‘ida to‘g‘ri bo‘lsa",
       "variantlar": [
-        "Ufq chizig‘ida to‘g‘ri bo‘lsa",
-        "Ufq chizig‘idan yuqori bo‘lsa",
+        "Yuqoridan pastroqda bo’lsa",
         "Ufq chizig‘idan pastda bo‘lsa",
-        "Yuqoridan pastroqda bo’lsa"
+        "Ufq chizig‘idan yuqori bo‘lsa",
+        "Ufq chizig‘ida to‘g‘ri bo‘lsa"
       ],
       "manba": "-831]"
     },
@@ -4055,10 +4055,10 @@
       "savol": "Yorug‘lik nima?",
       "javob": "Jism yuzasiga tushuvchi yorug‘lik",
       "variantlar": [
-        "Jism yuzasiga tushuvchi yorug‘lik",
         "Jisimning yaltiroq joyiga aytiladi",
-        "Jisimning tus og‘irligiga aytiladi",
-        "Jisimning nisbatlari yorugligi"
+        "Jisimning nisbatlari yorugligi",
+        "Jism yuzasiga tushuvchi yorug‘lik",
+        "Jisimning tus og‘irligiga aytiladi"
       ],
       "manba": "-836]"
     },
@@ -4068,8 +4068,8 @@
       "javob": "Bo‘laklardan",
       "variantlar": [
         "Bo‘laklardan",
-        "Qisimlardan",
         "Yuzalardan",
+        "Qisimlardan",
         "Tasvirlardan"
       ],
       "manba": "-841]"
@@ -4080,9 +4080,9 @@
       "javob": "Italyancha “Qurish”",
       "variantlar": [
         "Italyancha “Qurish”",
-        "Lotincha “Tuzilish”",
         "Inglizcha “Tuzish”",
-        "Yunoncha“Bezash”"
+        "Yunoncha“Bezash”",
+        "Lotincha “Tuzilish”"
       ],
       "manba": "-846]"
     },
@@ -4091,9 +4091,9 @@
       "savol": "Uyg‘onish davrining buyuk rassomlari kimlar?",
       "javob": "Lоnardo daVinchi, Rafael, Mikelanjelo",
       "variantlar": [
+        "Chistyakov, Bryullov, L.David",
         "Lоnardo daVinchi, Rafael, Mikelanjelo",
         "Repin, Vasnetsov, Mikelanjelo",
-        "Chistyakov, Bryullov, L.David",
         "Titsian, Botichelli, A.Dyurer"
       ],
       "manba": "-851]"
@@ -4103,10 +4103,10 @@
       "savol": "O’rol Tansiqboevning mashhur asari qaysi?",
       "javob": "Mening qo’shig’im",
       "variantlar": [
-        "Mening qo’shig’im",
+        "Qo’shiq ohanglari",
         "Issiq ko’lda oqshom",
         "Uzbekistonda mart",
-        "Qo’shiq ohanglari"
+        "Mening qo’shig’im"
       ],
       "manba": "-856]"
     },
@@ -4115,10 +4115,10 @@
       "savol": "Gips nima?",
       "javob": "Ganch, tabiiy mineral modda",
       "variantlar": [
-        "Ganch, tabiiy mineral modda",
         "Loy, oxak, sement aralashmasi",
+        "Tabiiy qattiq eritma, toshtemir",
         "Toshning bir turi, qattiq jism",
-        "Tabiiy qattiq eritma, toshtemir"
+        "Ganch, tabiiy mineral modda"
       ],
       "manba": "-861]"
     },
@@ -4127,10 +4127,10 @@
       "savol": "Qog‘oz kim tomonidan va qachon kashf etilgan?",
       "javob": "Xitoyliklar tomonidan ikkinchi asrda",
       "variantlar": [
-        "Xitoyliklar tomonidan ikkinchi asrda",
-        "Yaponiyaliklar tomonidan birinchi asrda",
         "Italiyaliklar tomonidan to‘rtinchi asrda",
-        "Rimliklar tomonidan oltinchi asrda"
+        "Rimliklar tomonidan oltinchi asrda",
+        "Xitoyliklar tomonidan ikkinchi asrda",
+        "Yaponiyaliklar tomonidan birinchi asrda"
       ],
       "manba": "-866]"
     },
@@ -4139,9 +4139,9 @@
       "savol": "Natura nima?",
       "javob": "Narsaning asli",
       "variantlar": [
+        "Buyum ko’rinishi",
         "Narsaning asli",
         "Rasm ko’rinishi",
-        "Buyum ko’rinishi",
         "Tasvir vositasi"
       ],
       "manba": "-871]"
@@ -4151,10 +4151,10 @@
       "savol": "Ijod komponentlari nima?",
       "javob": "Bilim, dunyoqarash, estetik va badiiy did, mahorat",
       "variantlar": [
-        "Bilim, dunyoqarash, estetik va badiiy did, mahorat",
         "Malakalarning ifodaviy tasviri va badiiy mahorat",
         "Ijod maxsuli, chizilgan tasvirlar va estetik mahorat",
-        "Chiziqlar, rasmlar, belgilar bilan chizilgan tasvir"
+        "Chiziqlar, rasmlar, belgilar bilan chizilgan tasvir",
+        "Bilim, dunyoqarash, estetik va badiiy did, mahorat"
       ],
       "manba": "-876]"
     },
@@ -4163,9 +4163,9 @@
       "savol": "Grizayl so’zining ma’nosi nima?",
       "javob": "Bir xil rangda ishlangan notyurmort",
       "variantlar": [
-        "Bir xil rangda ishlangan notyurmort",
-        "Bir necha rangda ishlangan notyurmort",
         "Iliq rangda ishlangan notyurmort",
+        "Bir necha rangda ishlangan notyurmort",
+        "Bir xil rangda ishlangan notyurmort",
         "Sovuq rangda ishlangan notyurmort"
       ],
       "manba": "-881]"
@@ -4175,10 +4175,10 @@
       "savol": "Dunyodagi yagona rangshunoslik instituti qayerda joylashgan?",
       "javob": "Tokio",
       "variantlar": [
-        "Tokio",
         "London",
+        "Yaponiya",
         "Rossiya",
-        "Yaponiya"
+        "Tokio"
       ],
       "manba": "-886]"
     },
@@ -4188,8 +4188,8 @@
       "javob": "Leonardo da Vinchi",
       "variantlar": [
         "Leonardo da Vinchi",
-        "Rafael Santi",
         "Botichelli Venuchiella",
+        "Rafael Santi",
         "Rembrandt Xarmes van Reyn"
       ],
       "manba": "-891]"
@@ -4199,8 +4199,8 @@
       "savol": "Rangtasvirga xos atamalar?",
       "javob": "Bo’yoq, moybo’yoq, tarshon",
       "variantlar": [
-        "Bo’yoq, moybo’yoq, tarshon",
         "Grafit, vatman, qalam",
+        "Bo’yoq, moybo’yoq, tarshon",
         "Guash, qalam, sirkul",
         "Sirkul, chizg’ich, qalam"
       ],
@@ -4211,10 +4211,10 @@
       "savol": "“Tong”, “Onalik” asarining muallifi kim?",
       "javob": "R.Ahmedov",
       "variantlar": [
-        "R.Ahmedov",
-        "A.Abdullayev",
         "B.Jalolov",
-        "M.Nabiyev"
+        "M.Nabiyev",
+        "A.Abdullayev",
+        "R.Ahmedov"
       ],
       "manba": "-901]"
     },
@@ -4236,8 +4236,8 @@
       "javob": "Oddiydan murakkabga",
       "variantlar": [
         "Oddiydan murakkabga",
-        "Murakkabdan oddiyga",
         "Faqat oddiy usulda",
+        "Murakkabdan oddiyga",
         "Faqat murakkab usulda"
       ],
       "manba": "-911]"
@@ -4247,10 +4247,10 @@
       "savol": "Jamlab qo’yilgan buyumlar yig’indisi nima dеb ataladi?",
       "javob": "Natyurmort",
       "variantlar": [
+        "Rozеtka",
         "Natyurmort",
-        "Natura",
         "Mulyajlar",
-        "Rozеtka"
+        "Natura"
       ],
       "manba": "-916]"
     },
@@ -4259,9 +4259,9 @@
       "savol": "Rangtasvirda birinchi bosqich?",
       "javob": "Tasvirlanayotgan narsalarga dastlabki ranglarni berish",
       "variantlar": [
-        "Tasvirlanayotgan narsalarga dastlabki ranglarni berish",
-        "Katta jismlarning qismlarga ajratib tasvirlash turlari",
         "Birinchi bosqichdagi tasvirga mukammal ishlov berish",
+        "Katta jismlarning qismlarga ajratib tasvirlash turlari",
+        "Tasvirlanayotgan narsalarga dastlabki ranglarni berish",
         "Kichik jismlarga rangtasvirda ishlov berish"
       ],
       "manba": "-921]"
@@ -4272,8 +4272,8 @@
       "javob": "Xromatik, kolorit, garmoniya",
       "variantlar": [
         "Xromatik, kolorit, garmoniya",
-        "Axromatik, refleks, pastel",
         "Blik, semmetriya, mozaika",
+        "Axromatik, refleks, pastel",
         "Vitraj, semmetriya, blik"
       ],
       "manba": "-926]"
@@ -4283,10 +4283,10 @@
       "savol": "Allaprima so’zi qanday tildan olingan?",
       "javob": "Italyan",
       "variantlar": [
-        "Italyan",
         "Fransuz",
-        "Nemis",
-        "Lotin"
+        "Lotin",
+        "Italyan",
+        "Nemis"
       ],
       "manba": "-931]"
     },
@@ -4295,10 +4295,10 @@
       "savol": "Rasm chizish jarayoning birinchi bosqichida qanday vazifa bajariladi?",
       "javob": "Kompozitsion joylashtirish",
       "variantlar": [
-        "Kompozitsion joylashtirish",
-        "Taxlil qilish, yakunlash",
         "Shtrixlash nuqtani topish",
-        "Tayanch nuqtani toppish"
+        "Tayanch nuqtani toppish",
+        "Taxlil qilish, yakunlash",
+        "Kompozitsion joylashtirish"
       ],
       "manba": "-936]"
     },
@@ -4307,10 +4307,10 @@
       "savol": "Akvarel bo’yog’ida dastlabki mashqlar bajarish necha bosqichdan iborat?",
       "javob": "3-5",
       "variantlar": [
+        "5-4",
         "3-5",
         "6-7",
-        "4-6",
-        "5-4"
+        "4-6"
       ],
       "manba": "-941]"
     },
@@ -4319,9 +4319,9 @@
       "savol": "Stilizatsiya nima?",
       "javob": "Tasvirlashda narsa va xodisalar shaklini soddalashtirish",
       "variantlar": [
+        "Tasvir mavzusini mukammallashtirish",
         "Tasvirlashda narsa va xodisalar shaklini soddalashtirish",
         "Tasvir kompozitsiyasini murakkablashtirish",
-        "Tasvir mavzusini mukammallashtirish",
         "Tasvirning kompozitsion yechimini to’g’ri toppish"
       ],
       "manba": "-946]"
@@ -4331,10 +4331,10 @@
       "savol": "Morina janri qanday bo‘ladi?",
       "javob": "Dengiz, suv, okean ko‘rinishini ishlash",
       "variantlar": [
-        "Dengiz, suv, okean ko‘rinishini ishlash",
         "Tabiat manzarasini ishlash",
-        "Ranglangan suratlar",
-        "Maishiy ko‘rinishdagi tasvirlar"
+        "Dengiz, suv, okean ko‘rinishini ishlash",
+        "Maishiy ko‘rinishdagi tasvirlar",
+        "Ranglangan suratlar"
       ],
       "manba": "-951]"
     },
@@ -4343,10 +4343,10 @@
       "savol": "Toglarni ishlagan rassom ijodi qaysi janrga oid?",
       "javob": "Peyzaj janri deyiladi",
       "variantlar": [
-        "Peyzaj janri deyiladi",
-        "Batal janri deyiladi",
         "Maiyshiy janr deyiladi",
-        "Boshqa"
+        "Boshqa",
+        "Peyzaj janri deyiladi",
+        "Batal janri deyiladi"
       ],
       "manba": "-955]"
     },
@@ -4355,10 +4355,10 @@
       "savol": "Xolst nima?",
       "javob": "Moybo’yoq uchun maxsus mato",
       "variantlar": [
+        "Tempera bo’yog’ uchun maxsus mato",
         "Moybo’yoq uchun maxsus mato",
         "Akvarel bo’yog’i uchun maxsus mato",
-        "Guash bo’yog’i uchun maxsus mato",
-        "Tempera bo’yog’ uchun maxsus mato"
+        "Guash bo’yog’i uchun maxsus mato"
       ],
       "manba": "-960]"
     },
@@ -4367,9 +4367,9 @@
       "savol": "Akril bo‘yog‘ining moybo’yoqdan farqi nimada?",
       "javob": "Ranglar tiniq va suvda eruvchan, xususiyatli",
       "variantlar": [
-        "Ranglar tiniq va suvda eruvchan, xususiyatli",
-        "Suvda erimaydi, suyuq ko‘rinishga ega",
         "Qo‘yiq tarkibi moydan iborat",
+        "Suvda erimaydi, suyuq ko‘rinishga ega",
+        "Ranglar tiniq va suvda eruvchan, xususiyatli",
         "Suvda va moyda eriydigan yaltiroq"
       ],
       "manba": "-965]"
@@ -4379,10 +4379,10 @@
       "savol": "Jigarrang rang qaysi bo’yoqlardan hosil bo’ladi?",
       "javob": "Qizil va yashil",
       "variantlar": [
+        "To’q jigarrang va binafsha",
         "Qizil va yashil",
-        "Sariqva binafsha",
         "To’q sariq va binafsha",
-        "To’q jigarrang va binafsha"
+        "Sariqva binafsha"
       ],
       "manba": "-970]"
     },
@@ -4391,8 +4391,8 @@
       "savol": "Akril bo’yog’i necha daqiqada quriydi?",
       "javob": "10 daqiqa",
       "variantlar": [
-        "10 daqiqa",
         "20 daqiqa",
+        "10 daqiqa",
         "15 daqiqa",
         "30 daqiqa"
       ],
@@ -4403,10 +4403,10 @@
       "savol": "Kamalakdagi ranglar nechta?",
       "javob": "7 ta",
       "variantlar": [
-        "7 ta",
-        "5 ta",
         "9 ta",
-        "2 ta"
+        "2 ta",
+        "7 ta",
+        "5 ta"
       ],
       "manba": "-980]"
     },
@@ -4415,10 +4415,10 @@
       "savol": "Moybo‘yoq, xolst, mo‘yqalam, lok, razbovitel tasviriy san’atning qaysi turida qo’llaniladi",
       "javob": "Rangtasvir",
       "variantlar": [
-        "Rangtasvir",
-        "Qalamtasvir",
         "Amaliy san’at",
-        "Arxitektura"
+        "Arxitektura",
+        "Rangtasvir",
+        "Qalamtasvir"
       ],
       "manba": "-985]"
     },
@@ -4427,10 +4427,10 @@
       "savol": "Proporsiya so‘zining ma’nosi?",
       "javob": "Nisbatlar",
       "variantlar": [
-        "Nisbatlar",
-        "To‘g‘ri",
         "Tekislik",
-        "Takrorlash"
+        "Takrorlash",
+        "To‘g‘ri",
+        "Nisbatlar"
       ],
       "manba": "-990]"
     },
@@ -4439,10 +4439,10 @@
       "savol": "Rang xususiyatlarini o’rganuvchi fan?",
       "javob": "Rangshunoslik",
       "variantlar": [
-        "Rangshunoslik",
+        "Kompozitsiya",
         "Qalamtasvir",
-        "Rangtasvir",
-        "Kompozitsiya"
+        "Rangshunoslik",
+        "Rangtasvir"
       ],
       "manba": "-995]"
     },
@@ -4451,10 +4451,10 @@
       "savol": "Rantasvirda hajm qanday aniqlanadi?",
       "javob": "Soya yorug‘ yordamida",
       "variantlar": [
+        "Nisbatni to’g’ri olish",
         "Soya yorug‘ yordamida",
-        "Perespektiva yordamida",
         "Shtrix yordamida",
-        "Nisbatni to’g’ri olish"
+        "Perespektiva yordamida"
       ],
       "manba": "-1000]"
     },
@@ -4463,10 +4463,10 @@
       "savol": "Ko‘z balandligida joylashgan fazoviy tekislik nima?",
       "javob": "Ufq chiziqi",
       "variantlar": [
-        "Ufq chiziqi",
-        "Kartina tekisligi",
+        "Ko‘rish nuqtasi",
         "Ko‘rish maydoni",
-        "Ko‘rish nuqtasi"
+        "Kartina tekisligi",
+        "Ufq chiziqi"
       ],
       "manba": "1-1005]"
     }
